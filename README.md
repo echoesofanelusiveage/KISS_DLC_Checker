@@ -19,7 +19,7 @@ kiss_dlc.txt と kiss_dlc_checker.py をゲームのルートフォルダ（CM3D
 Place kiss_dlc.txt and kiss_dlc_checker.py in the game root folder (where CM3D2.exe, COM3D2.exe, or CR EditSystem.exe is located), then double-click kiss_dlc_checker.py or run it via command line.
 
 ```bash
-python kiss_dlc_check.py
+python kiss_dlc_checker.py
 ```
 
 ## Script functions
