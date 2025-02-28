@@ -28,7 +28,7 @@ python kiss_dlc_check.py
 
 インストール済みおよび未インストールの DLC をリスト表示。読み取れないファイルを kiss_dlc_unknown.txt に記録。
 
-List installed and uninstalled DLCs.Write unreadable files to kiss_dlc_unknown.txt.
+List installed and uninstalled DLCs. Write unreadable files to kiss_dlc_unknown.txt.
 
 ## Credits
 Special thanks to the following projects:
