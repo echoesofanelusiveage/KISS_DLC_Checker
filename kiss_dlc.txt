@@ -28,7 +28,7 @@ bg_denkigai2018sposteryandere.arc,電気外祭り2018夏 ポスター 病的な�
 bg_denkigai2018srecord.arc,電気外祭り2018夏 アナログ盤COM3DVC
 bg_denkigai2018ssposter1.arc,電気外祭り2018夏 スティックポスター 無口で甘えたがりな文学少女
 bg_denkigai2018w.arc,電気外祭り2018冬アイテムセット-DLC.Ver
-bg_denkigai2018wpcard.arc,電気外祭り2018冬プレゼントカード
+bg_denkigai2018wpcard.arc,電気外祭り2018冬 電気外祭り2018冬プレゼントカード
 bg_denkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 bg_denkigai2019ssposter1.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 bg_denkigai2019ssposter2.arc,電気外祭り2019夏アイテムセット-DLC.Ver
@@ -36,8 +36,8 @@ bg_denkigai2019ssposter3.arc,電気外祭り2019夏 スティックポスター 
 bg_denkigai2019w.arc,電気外祭り2019冬アイテムセット-DLC.Ver
 bg_denkigai2019wposter.arc,電気外祭り2019冬 ポスター 高飛車で生意気なお嬢様
 bg_denkigai2020s.arc,電気外祭り2020夏アイテムセット
-bg_denkigai2020w.arc,気外祭り2020冬アイテムセット
-bg_denkigai2021s.arc,電気外祭り2021夏アイテムセット
+bg_denkigai2020w.arc,電気外祭り2020冬アイテムセット
+bg_denkigai2021s.arc,電気外祭り2021夏アイテムセット 夏祭りSP
 bg_denkigai2024w.arc,電気外祭り2024冬アイテムセット ダブルデートSP
 bg_dlc305.arc,戯画・アイキス・恋しちゃったみたい
 bg_dlc306.arc,SSIジャパン・ラブバイブ・アダルトショップ＆夜伽スキルセット
@@ -213,17 +213,17 @@ csv_denkigai2018spostermukuti.arc,電気外祭り2018夏 ポスター 無口で�
 csv_denkigai2018sposteryandere.arc,電気外祭り2018夏 ポスター 病的な程一途な大和撫子
 csv_denkigai2018srecord.arc,電気外祭り2018夏 アナログ盤COM3DVC
 csv_denkigai2018ssposter1.arc,電気外祭り2018夏 スティックポスター 無口で甘えたがりな文学少女
-csv_denkigai2018w.arc,電気外祭り2018冬 電気外祭り2018冬アイテムセット
+csv_denkigai2018w.arc,電気外祭り2018冬アイテムセット-DLC.Ver
 csv_denkigai2018wpcard.arc,電気外祭り2018冬 電気外祭り2018冬プレゼントカード
-csv_denkigai2019s.arc,電気外祭り2019夏 電気外祭り2019夏アイテムセット
+csv_denkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 csv_denkigai2019sbara.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 csv_denkigai2019ssposter1.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 csv_denkigai2019ssposter2.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 csv_denkigai2019ssposter3.arc,電気外祭り2019夏 スティックポスター 無愛想
-csv_denkigai2019w.arc,電気外祭り2019冬 電気外祭り2019冬アイテムセット
+csv_denkigai2019w.arc,電気外祭り2019冬アイテムセット-DLC.Ver
 csv_denkigai2019wposter.arc,電気外祭り2019冬 ポスター 高飛車で生意気なお嬢様
 csv_denkigai2020s.arc,電気外祭り2020夏アイテムセット
-csv_denkigai2020w.arc,電気外祭り2020冬 電気外祭り2020冬アイテムセット
+csv_denkigai2020w.arc,電気外祭り2020冬アイテムセット
 csv_denkigai2021s.arc,電気外祭り2021夏アイテムセット 夏祭りSP
 csv_denkigai2021s_add.arc,電気外祭り2021夏アイテムセット 夏祭りSP Ver.お姉ちゃん、おしとやか、メイド秘書
 csv_denkigai2024w.arc,電気外祭り2024冬アイテムセット ダブルデートSP
@@ -463,6 +463,7 @@ model_kiss25th.arc,KISS25周年記念Tシャツ
 model_niconama050.arc,ニコ生50回記念Tシャツ
 model_ordermade002.arc,移籍パックvol.2 母性的なお姉ちゃん
 motion2.arc,夜伽＆カラオケ付きお嬢様らぶらぶ同棲パック
+motion_3d21reserve.arc,カスタムオーダーメイド3D2専用プラグイン グレードアップ予約キャンペーン Vol.1
 motion_3d21reserve2.arc,カスタムオーダーメイド3D2専用プラグイン グレードアップ予約キャンペーン Vol.2
 motion_acosh001.arc,カスタムオーダーメイド3D2 アダルトコスチュームセット+アダルトアイテム付きHイベント
 motion_acosh002.arc,タキシードバニー&エレガントバニー　Wバニーアダルトセット
@@ -517,6 +518,7 @@ motion_cbl_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『イン�
 motion_cbl_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 motion_cbl_xmas2021event2.arc,クリスマスカラオケSP
 motion_charaevent001.arc,イベント追加パックvol.1 キャラクターHイベントプラス
+motion_charaevent002.arc,イベント追加パックvol.2 キャラクターHイベントプラス　純愛side
 motion_charaevent003.arc,イベント追加パックvol.3 キャラクターHイベントプラス　純愛side
 motion_charaevent004.arc,イベント追加パックvol.4 キャラクターHイベントプラス　純愛side
 motion_charaevent005.arc,イベント追加パックvol.5 キャラクターHイベントプラス　純愛side
@@ -637,6 +639,7 @@ motion_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
 motion_omytgc012.arc,夜伽クラス Vol.30 乱交プレイメイド
 motion_omytgc013.arc,夜伽クラス Vol.31 ラブ奉仕メイド
 motion_omytgc014.arc,夜伽クラス Vol.32 マニアッククイーンメイド
+motion_omytgc015.arc,夜伽クラス Vol.33 逆転変態プレイメイド
 motion_omytgc016.arc,夜伽クラス Vol.34 『エクスタシーメイド』
 motion_omytgc017.arc,夜伽クラス Vol.35 『クライシスメイド』
 motion_omytgc018.arc,夜伽クラス Vol.36 『ラブバインドメイド』
@@ -675,7 +678,7 @@ motion_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 motion_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 motion_selfishdestiny.arc,MML・Selfish Destiny ダンス
 motion_senkyo001.arc,1st only you ダンス＆イベント
-motion_smsp001.arc,カスタムオーダーメイド拘束台SP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
+motion_smsp001.arc,カスタムオーダーメイド拘束台SP
 motion_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 motion_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 motion_studio001.arc,スタジオモード強化パック
@@ -1001,7 +1004,7 @@ parts_shop019.arc,カスタムオーダーメイド3D2専用プラグイン ハ�
 parts_shop020.arc,カスタムオーダーメイド3D2専用プラグイン めろんちゃんセット
 parts_shop021.arc,カスタムオーダーメイド3D2専用プラグイン セクシーテールドレスセット
 parts_shop022.arc,[Custom Order Maid 3D2 designated plug-in 'Nutaku-tan set']
-parts_smsp001.arc,カスタムオーダーメイド拘束台SP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
+parts_smsp001.arc,カスタムオーダーメイド拘束台SP
 parts_sp001.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Summer
 parts_sp002.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Autumn
 parts_sp003.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Winter
@@ -1068,6 +1071,7 @@ script_cbl_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『イン�
 script_cbl_personal_om006_gp001.arc,カスタムオーダーメイド3D2＋GP-01+髪型＆私服追加フルパック feat.無愛想
 script_cbl_personal_om006_gp001fb.arc,カスタムオーダーメイド3D2＋GP-01Fb+髪型追加フルパック feat.無愛想
 script_charaevent001.arc,イベント追加パックvol.1 キャラクターHイベントプラス
+script_charaevent002.arc,イベント追加パックvol.2 キャラクターHイベントプラス　純愛side
 script_charaevent002ntr.arc,イベント追加パックvol.2 キャラクターHイベントプラス　NTRside
 script_charaevent003.arc,イベント追加パックvol.3 キャラクターHイベントプラス　純愛side
 script_charaevent003ntr.arc,イベント追加パックvol.3 キャラクターHイベントプラス　NTRside
@@ -1197,6 +1201,7 @@ script_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
 script_omytgc012.arc,夜伽クラス Vol.30 乱交プレイメイド
 script_omytgc013.arc,夜伽クラス Vol.31 ラブ奉仕メイド
 script_omytgc014.arc,夜伽クラス Vol.32 マニアッククイーンメイド
+script_omytgc015.arc,夜伽クラス Vol.33 逆転変態プレイメイド
 script_omytgc016.arc,夜伽クラス Vol.34 『エクスタシーメイド』
 script_omytgc017.arc,夜伽クラス Vol.35 『クライシスメイド』
 script_omytgc018.arc,夜伽クラス Vol.36 『ラブバインドメイド』
@@ -1379,6 +1384,7 @@ sound_wonderingbeads.arc,wondering beads ダンス
 sound_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 sound_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 sound_xmas2021event2.arc,クリスマスカラオケSP
+system_3d21reserve.arc,カスタムオーダーメイド3D2専用プラグイン グレードアップ予約キャンペーン Vol.1
 system_adultplus_hard.arc,アダルトビジュアル強化パック
 system_av001.arc,カスタムオーダーメイド3D2 AVパック
 system_bugbug003.arc,夜伽クラス バグバグオーダーメイド
@@ -1472,6 +1478,7 @@ system_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
 system_omytgc012.arc,夜伽クラス Vol.30 乱交プレイメイド
 system_omytgc013.arc,夜伽クラス Vol.31 ラブ奉仕メイド
 system_omytgc014.arc,夜伽クラス Vol.32 マニアッククイーンメイド
+system_omytgc015.arc,夜伽クラス Vol.33 逆転変態プレイメイド
 system_omytgc016.arc,夜伽クラス Vol.34 『エクスタシーメイド』
 system_omytgc017.arc,夜伽クラス Vol.35 『クライシスメイド』
 system_omytgc018.arc,夜伽クラス Vol.36 『ラブバインドメイド』
@@ -1509,7 +1516,7 @@ system_personal_om012.arc,カスタムオーダーメイド3D2キャラクター
 system_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 system_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 system_selfishdestiny.arc,MML・Selfish Destiny ダンス
-system_smsp001.arc,カスタムオーダーメイド拘束台SP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
+system_smsp001.arc,カスタムオーダーメイド拘束台SP
 system_sp001.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Summer
 system_sp002.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Autumn
 system_sp003.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Winter
@@ -1538,6 +1545,7 @@ voice_av002.arc,カスタムオーダーメイド3D2 AVパックVol.02
 voice_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 voice_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 voice_charaevent001.arc,イベント追加パックvol.1 キャラクターHイベントプラス
+voice_charaevent002.arc,イベント追加パックvol.2 キャラクターHイベントプラス　純愛side
 voice_charaevent002ntr.arc,イベント追加パックvol.2 キャラクターHイベントプラス　NTRside
 voice_charaevent003.arc,イベント追加パックvol.3 キャラクターHイベントプラス　純愛side
 voice_charaevent003ntr.arc,イベント追加パックvol.3 キャラクターHイベントプラス　NTRside
@@ -1675,6 +1683,7 @@ voice_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
 voice_omytgc012.arc,夜伽クラス Vol.30 乱交プレイメイド
 voice_omytgc013.arc,夜伽クラス Vol.31 ラブ奉仕メイド
 voice_omytgc014.arc,夜伽クラス Vol.32 マニアッククイーンメイド
+voice_omytgc015.arc,夜伽クラス Vol.33 逆転変態プレイメイド
 voice_omytgc016.arc,夜伽クラス Vol.34 『エクスタシーメイド』
 voice_omytgc017.arc,夜伽クラス Vol.35 『クライシスメイド』
 voice_omytgc018.arc,夜伽クラス Vol.36 『ラブバインドメイド』
