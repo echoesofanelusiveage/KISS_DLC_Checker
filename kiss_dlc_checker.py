@@ -67,8 +67,8 @@ def scan_gamedata(game_type):
     if target_ext:
         target_ext = target_ext.lower()
         files = [f for f in files if f.lower().endswith(target_ext)]
-    if game_type == 'CREditSystem':
-        files = [f for f in files if not f.lower().endswith('_2.aba')]
+        suffix_to_exclude = f'_2{target_ext}'
+        files = [f for f in files if not f.lower().endswith(suffix_to_exclude)]
     return files
 
 def analyze_dlc(dlc_map, game_files):
