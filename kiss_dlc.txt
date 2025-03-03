@@ -458,7 +458,7 @@ csv_omytgc026_add.arc,夜伽クラス Vol.42 エスカレート乱交プレイ�
 csv_omytgc026_add2.arc,夜伽クラス Vol.42『エスカレート乱交プレイメイド』Ver.小悪魔、おしとやか、ヤンデレ
 csv_omytgc026_add3.arc,夜伽クラス Vol.42 エスカレート乱交プレイメイド Ver.小悪魔、おしとやか、ヤンデレ
 csv_omytgc027.arc,夜伽クラス バイノーラルSP 『バイノーラルラブラブプレイメイド』
-csv_omytgc027_add.arc,夜伽クラス バイノーラルSP バイノーラルラブラブプレイメイド Ver.メイド秘書、無愛想、お嬢様、クーデ レ
+csv_omytgc027_add.arc,夜伽クラス バイノーラルSP 『バイノーラルラブラブプレイメイド』Ver.メイド秘書、無愛想、お嬢様、クーデレ
 csv_omytgc028.arc,夜伽クラス Vol.43『ムリヤリ複数プレイメイド』
 csv_omytgc028_add.arc,夜伽クラス Vol.43 ムリヤリ複数プレイメイド Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹
 csv_omytgc029.arc,夜伽クラス Vol.44 『寝取られ乱交プレイメイド』Ver.無垢、真面目、凜デレ
@@ -474,7 +474,7 @@ csv_omytgc032_add.arc,夜伽クラス Vol.47『激責め複数乱交プレイメ
 csv_omytgc032_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.小悪魔、気さく、淑女、ツンデレ、クーデレ、純真、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
 csv_omytgc033.arc,夜伽クラス Vol.48 『ラブセックスソファメイド』Ver.無垢、真面目、凜デレ
 csv_omytgc033_add.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.無垢、真面目、凜デレ
-csv_omytgc033_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、無 愛想、お嬢様、幼馴染
+csv_omytgc033_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、無愛想、お嬢様、幼馴染
 csv_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『インモラルメイド+&スクールメイド+』Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか
 csv_omytgc034_add.arc,夜伽クラスSP『+&ACT2リバイバル』『インモラルメイド+&スクールメイド+』Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか
 csv_ordermade001.arc,移籍パックvol.1 病的な程一途な大和撫子
@@ -555,7 +555,7 @@ csv_x001m1n1.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 csv_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 csv_x_adultplus.arc,カスタムオーダーメイド3D2 アダルト機能強化パック
 csv_x_adultplus_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.文学少女、おしとやか、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
-csv_x_adultplus_add2.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.小悪魔、妹、メイド秘書、無愛想、お嬢様、幼 馴染
+csv_x_adultplus_add2.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.小悪魔、妹、メイド秘書、無愛想、お嬢様、幼馴染
 csv_x_adultplus_add3.arc,カスタムオーダーメイド3D2 アダルト機能強化パック Ver.ド変態、腹黒、気さく、淑女
 csv_xmas2021event1.arc,クリスマスカラオケSP
 csv_xmas2021event2.arc,クリスマスカラオケSP
@@ -688,7 +688,7 @@ motion_cbl_oldplus_sadist.arc,夜伽＆カラオケ付きドSらぶらぶ同棲�
 motion_cbl_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
 motion_cbl_omytgc001.arc,夜伽クラス Vol.19 変態辱めセックスメイド&ソープご奉仕セックスメイド
 motion_cbl_omytgc002.arc,夜伽クラス Vol.20 アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド
-motion_cbl_omytgc003.arc,夜伽クラス Vol.21らぶらぶメイド&欲情メイド
+motion_cbl_omytgc003.arc,夜伽クラス Vol.21 らぶらぶメイド&欲情メイド
 motion_cbl_omytgc004.arc,夜伽クラス Vol.22 拘束変態責めメイド&ハードセックスメイド
 motion_cbl_omytgc005.arc,夜伽クラス Vol.23 服従セックスメイド&ハードスワップセックスメイド
 motion_cbl_omytgc006.arc,夜伽クラス Vol.24 マスタープレイメイド&変態恥辱セックスメイド
@@ -712,8 +712,8 @@ motion_cbl_omytgc023.arc,夜伽クラス Vol.41 純愛ピュアラブメイド�
 motion_cbl_omytgc024.arc,夜伽クラス ハーレムSP ラグジュアリーハーレムプレイメイド
 motion_cbl_omytgc026.arc,夜伽クラス Vol.42エスカレート乱交プレイメイド
 motion_cbl_omytgc027.arc,夜伽クラス バイノーラルSP バイノーラルラブラブプレイメイド
-motion_cbl_omytgc028.arc,夜伽クラス Vol.43ムリヤリ複数プレイメイド
-motion_cbl_omytgc029.arc,夜伽クラス Vol.44 寝取られ乱交プレイメイドVer.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか、妹、無愛想
+motion_cbl_omytgc028.arc,夜伽クラス Vol.43 ムリヤリ複数プレイメイド
+motion_cbl_omytgc029.arc,夜伽クラス Vol.44 寝取られ乱交プレイメイド Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか、妹、無愛想
 motion_cbl_omytgc032.arc,夜伽クラス Vol.47『激責め複数乱交プレイメイド』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、無愛想、お嬢様、幼馴染
 motion_cbl_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『インモラルメイド+&スクールメイド+』Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか
 motion_cbl_pajama001.arc,ぱじゃまエクスタシー・あまあまシェアリング・なりきり夜伽セット
@@ -753,7 +753,7 @@ motion_cw008d.arc,コスチュームセット Vol.63『ドレスSP』withモー�
 motion_cw009.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆ハイポリ
 motion_dance_aikiss2.arc,戯画・アイキス2・Kiss me! choose me!
 motion_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス　フルセット
-motion_dance_cil.arc,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん ダンス『Charm in Love』
+motion_dance_cil.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 motion_dance_hhs.arc,カスタムオーダーメイド3D2専用プラグイン happy!happy!スキャンダル!!
 motion_dance_khg.arc,改革的ハートグラフィー
 motion_dance_reg.arc,カスタムオーダーメイド3D2専用プラグイン レグルスの涙　ダンス
@@ -1536,7 +1536,7 @@ script_acosh001.arc,カスタムオーダーメイド3D2 アダルトコスチ�
 script_acosh002.arc,タキシードバニー&エレガントバニー　Wバニーアダルトセット
 script_acosh003.arc,カスタムオーダーメイド3D2 アダルトコスチュームセットVol.3 + Hイベント
 script_adultplus_black.arc,アダルト機能強化パックBLACK 無垢、真面目、凜デレ、純真、ツンデレ、クーデレ
-script_adultplus_black_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックBLACK Ver.文学少女、小悪魔、おしとやか、 メイド秘書、妹、無愛想
+script_adultplus_black_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックBLACK Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
 script_adultplus_black_add2.arc,アダルト機能強化パックBLACK第３弾 お嬢様、幼馴染、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
 script_adultplus_black_add3.arc,カスタムオーダーメイド3D2 アダルト機能強化パックBLACK Ver.気さく、淑女、ド変態、腹黒
 script_adultplus_darkness.arc,アダルト機能強化パックDARKNESS
@@ -1887,7 +1887,7 @@ script_x001kaiplus.arc,カスタムオーダーメイド3D2&2.5＋X1改＋
 script_x001m1n1.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 script_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 script_x_adultplus.arc,カスタムオーダーメイド3D2 アダルト機能強化パック
-script_x_adultplus_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.文学少女、おしとやか、ヤンデレ、お姉ちゃ ん、ボクっ娘、ドS
+script_x_adultplus_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.文学少女、おしとやか、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
 script_x_adultplus_add2.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.小悪魔、妹、メイド秘書、無愛想、お嬢様、幼馴染
 script_x_adultplus_add3.arc,カスタムオーダーメイド3D2 アダルト機能強化パック Ver.ド変態、腹黒、気さく、淑女
 script_xmas2021event1.arc,クリスマスカラオケSP
@@ -2378,7 +2378,7 @@ voice_omytgc026.arc,夜伽クラス Vol.42『エスカレート乱交プレイ�
 voice_omytgc026_add2.arc,夜伽クラス Vol.42『エスカレート乱交プレイメイド』Ver.小悪魔、おしとやか、ヤンデレ
 voice_omytgc026_add3.arc,夜伽クラス Vol.42 エスカレート乱交プレイメイド Ver.小悪魔、おしとやか、ヤンデレ
 voice_omytgc027.arc,夜伽クラス バイノーラルSP 『バイノーラルラブラブプレイメイド』
-voice_omytgc027_add.arc,夜伽クラス バイノーラルSP バイノーラルラブラブプレイメイド Ver.メイド秘書、無愛想、お嬢様、クー デレ
+voice_omytgc027_add.arc,夜伽クラス バイノーラルSP 『バイノーラルラブラブプレイメイド』Ver.メイド秘書、無愛想、お嬢様、クーデレ
 voice_omytgc028.arc,夜伽クラス Vol.43『ムリヤリ複数プレイメイド』
 voice_omytgc029.arc,夜伽クラス Vol.44 『寝取られ乱交プレイメイド』Ver.無垢、真面目、凜デレ
 voice_omytgc030.arc,夜伽クラス Vol.45 『主従逆転女性上位セックス』Ver.無垢、真面目、凜デレ
@@ -2388,7 +2388,7 @@ voice_omytgc031_add2.arc,夜伽クラス Vol.45 『主従逆転女性上位セ�
 voice_omytgc032.arc,夜伽クラス Vol.47『激責め複数乱交プレイメイド』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、無愛想、お嬢様、幼馴染
 voice_omytgc032_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.小悪魔、気さく、淑女、ツンデレ、クーデレ、純真、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
 voice_omytgc033.arc,夜伽クラス Vol.48 『ラブセックスソファメイド』Ver.無垢、真面目、凜デレ
-voice_omytgc033_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、 無愛想、お嬢様、幼馴染
+voice_omytgc033_add2.arc,夜伽クラス Vol.47 『乱交夜伽』Ver.無垢、真面目、凜デレ、文学少女、おしとやか、メイド秘書、妹、無愛想、お嬢様、幼馴染
 voice_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『インモラルメイド+&スクールメイド+』Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか
 voice_ordermade001.arc,移籍パックvol.1 病的な程一途な大和撫子
 voice_ordermade001_solo.arc,キャラクター追加パックvol.1 病的な程一途な大和撫子
@@ -2461,7 +2461,7 @@ voice_x001m1n1.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 voice_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 voice_x_adultplus.arc,カスタムオーダーメイド3D2 アダルト機能強化パック
 voice_x_adultplus_add.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.文学少女、おしとやか、ヤンデレ、お姉ちゃん、ボクっ娘、ドS
-voice_x_adultplus_add2.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.小悪魔、妹、メイド秘書、無愛想、お嬢様、 幼馴染
+voice_x_adultplus_add2.arc,カスタムオーダーメイド3D2 アダルト機能強化パックVer.小悪魔、妹、メイド秘書、無愛想、お嬢様、幼馴染
 voice_x_adultplus_add3.arc,カスタムオーダーメイド3D2 アダルト機能強化パック Ver.ド変態、腹黒、気さく、淑女
 voice_xmas2021event1.arc,クリスマスカラオケSP
 voice_xmas2021event2.arc,クリスマスカラオケSP
