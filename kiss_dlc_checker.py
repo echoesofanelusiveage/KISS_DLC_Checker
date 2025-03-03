@@ -36,10 +36,11 @@ def read_dlc_list(game_type):
         if target_ext and not filename_lower.endswith(target_ext.lower()):
             continue
         if game_type == "CM3D2":
-            match = re.match(r'^parts_(dlc|cas)(\d+)\.arc$', filename_lower)
+            match = re.match(r'^parts_(.+)\.arc$', filename_lower)
             if match:
+                content = match.group(1)
                 for prefix in ['material', 'menu', 'model', 'texture']:
-                    new_name = f"{prefix}_{match.group(1)}{match.group(2)}.arc".lower()
+                    new_name = f"{prefix}_{content}.arc".lower()
                     dlc_map[new_name] = dlc_name
             else:
                 dlc_map[filename_lower] = dlc_name
@@ -90,9 +91,10 @@ def print_results(version, installed, missing, unknown):
             print(item)
     
     if version:
+        print_color("GitHub: https://github.com/echoesofanelusiveage/KISS_DLC_Checker", "cyan")
         print_color(f"Version: {version}", "cyan")
-    print_section("Installed", installed)
-    print_section("Not Installed", missing)
+        print_section("Installed", installed)
+        print_section("Not Installed", missing)
     
     if unknown:
         try:
