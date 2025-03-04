@@ -580,6 +580,8 @@ csv_yomeidokanteidan_sticker.arc,鑑定団ステッカー
 csv_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
 material_cd001.arc,ミュージックドレスセット&ボーカルコレクション
 material_denkigai2015wtowelr.arc,カスタムメイド3D2 連動タオルセット（物品+コード）
+material_dlc164.arc,MML・コスチュームセット
+material_dlc165.arc,MML・コスチュームセット
 material_dlc190.arc,接待ボンデージセット
 material_dlc191.arc,ブライダルドレスセット
 material_dlc192.arc,マダムファッションセット
@@ -594,6 +596,8 @@ material_niconama050.arc,ニコ生50回記念Tシャツ
 material_ordermade002.arc,移籍パックvol.2 母性的なお姉ちゃん
 menu_cd001.arc,ミュージックドレスセット&ボーカルコレクション
 menu_denkigai2015wtowelr.arc,カスタムメイド3D2 連動タオルセット（物品+コード）
+menu_dlc164.arc,MML・コスチュームセット
+menu_dlc165.arc,MML・コスチュームセット
 menu_dlc190.arc,接待ボンデージセット
 menu_dlc191.arc,ブライダルドレスセット
 menu_dlc192.arc,マダムファッションセット
@@ -610,6 +614,8 @@ menu_ordermade002.arc,移籍パックvol.2 母性的なお姉ちゃん
 menu_vac001.arc,VACコラボ 2月号
 model_cd001.arc,ミュージックドレスセット&ボーカルコレクション
 model_denkigai2015wtowelr.arc,カスタムメイド3D2 連動タオルセット（物品+コード）
+model_dlc164.arc,MML・コスチュームセット
+model_dlc165.arc,MML・コスチュームセット
 model_dlc190.arc,接待ボンデージセット
 model_dlc191.arc,ブライダルドレスセット
 model_dlc192.arc,マダムファッションセット
@@ -2194,6 +2200,8 @@ system_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
 system_xmas2021event2.arc,クリスマスカラオケSP
 texture_cd001.arc,ミュージックドレスセット&ボーカルコレクション
 texture_denkigai2015wtowelr.arc,カスタムメイド3D2 連動タオルセット（物品+コード）
+texture_dlc164.arc,MML・コスチュームセット
+texture_dlc165.arc,MML・コスチュームセット
 texture_dlc190.arc,接待ボンデージセット
 texture_dlc191.arc,ブライダルドレスセット
 texture_dlc192.arc,マダムファッションセット
