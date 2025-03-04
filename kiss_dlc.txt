@@ -1,4 +1,4 @@
-#Ver.2025.03.03
+#Ver.2025.03.04
 #com3d2plg
 bg-en.arc,bg English version
 bg_acosh001.arc,カスタムオーダーメイド3D2 アダルトコスチュームセット+アダルトアイテム付きHイベント
@@ -2025,7 +2025,9 @@ system_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 system_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 system_ch.arc,system Chinese version
 system_charaevent006ntr.arc,イベント追加パックvol.6 キャラクターHイベントプラス　NTRside
+system_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 system_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
+system_cos022.arc,マンスリーパックVol.22 レンタルメイドプラス 土豆瑠璃子(イベント)
 system_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
 system_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 system_crshop004.arc,カスタムオーダーメイド3D2 CRショップ NPCミニイベントセット
@@ -2487,7 +2489,9 @@ voice_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 voice_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 voice_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 voice_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
+voice_x001en.arc,カスタムオーダーメイド3D2&2.5＋X1 English version
 voice_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
+voice_x001kaien.arc,カスタムオーダーメイド3D2&2.5＋X1改 English version
 voice_x001kaiplus.arc,カスタムオーダーメイド3D2&2.5＋X1改＋
 voice_x001m1n1.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 voice_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
