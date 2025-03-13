@@ -1,4 +1,4 @@
-#Ver.2025.03.11
+#Ver.2025.03.13
 #com3d2plg
 bg-en.arc,bg English version
 bg_acosh001.arc,カスタムオーダーメイド3D2 アダルトコスチュームセット+アダルトアイテム付きHイベント
@@ -17,6 +17,7 @@ bg_cw003.arc,カスタムオーダーメイド3D2 コスチュームセット Vo
 bg_cw004.arc,カスタムオーダーメイド3D2 デートパック 2020 Spring
 bg_cw005.arc,カスタムオーダーメイド3D2 シーズンパック 2020 Summer
 bg_cw009.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆ハイポリ
+bg_cw010.arc,コスチュームセット Vol.67 セット購入特典背景
 bg_dance_aikiss2.arc,戯画・アイキス2・Kiss me! choose me!
 bg_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス　フルセット
 bg_denkigai2017wkey3.arc,電気外祭り2017冬アイテムセット-DLC.Ver
@@ -239,6 +240,7 @@ csv_cw007.arc,コスチュームセット Vol.62『ノーマル＆ハイポリ�
 csv_cw008.arc,コスチュームセット Vol.63『ドレスSP』withモーションプラス『ノーマル＆ハイポリ
 csv_cw008d.arc,コスチュームセット Vol.63『ドレスSP』withモーションプラス『ノーマル＆ハイポリ
 csv_cw009.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆ハイポリ
+csv_cw010.arc,コスチュームセット Vol.67 セット購入特典背景
 csv_dance_aikiss2.arc,戯画・アイキス2・Kiss me! choose me!
 csv_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス　フルセット
 csv_dance_cil.arc,カスタムオーダーメイド3D2 カラオケWデートパック
@@ -1474,6 +1476,8 @@ parts_dlc531.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆�
 parts_dlc532.arc,コスチュームセット Vol.66
 parts_dlc533.arc,コスチュームセット Vol.66
 parts_dlc534.arc,クリスマスカフェSP
+parts_dlc535.arc,コスチュームセット Vol.67 セット購入特典背景
+parts_dlc536.arc,コスチュームセット Vol.67 セット購入特典背景
 parts_dlcdenkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 parts_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット 『ノーマル＆ハイポリボディ版』（GP-01Fb購入者向け）
 parts_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -2924,6 +2928,8 @@ parts_dlc531_gp003.aba,流麗艶花セット
 parts_dlc532_gp003.aba,ネコミミ和風メイド服
 parts_dlc533_gp003.aba,ネコミミニットウィンターセット
 parts_dlc534_gp003.aba,サンタリボンセット
+parts_dlc535_gp003.aba,コスチュームセット Vol.67
+parts_dlc536_gp003.aba,コスチュームセット Vol.67
 parts_dlcdenkigai2015s004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_dlcfacetex001.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_explus001.aba,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
