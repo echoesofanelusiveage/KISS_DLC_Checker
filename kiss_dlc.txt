@@ -213,6 +213,7 @@ csv_charaevent014.arc,イベント追加パックvol.14 キャラクターHイ�
 csv_charaevent014add.arc,イベント追加パックvol.14 キャラクターHイベントプラス 「エンパイア・ピンク・サロン」＋衣装』Ver.メイド秘書、お嬢様、純真対応版
 csv_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 csv_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
+csv_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 csv_charaevent_anesan.arc,お姉ちゃんパック 〜お姉ちゃんアブノーマルＨイベント＆お姉ちゃんタトゥー〜
 csv_charaevent_genki.arc,ボクっ娘パック 〜ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー〜
 csv_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -781,6 +782,7 @@ motion_charaevent012.arc,イベント追加パックvol.12 キャラクターH�
 motion_charaevent013.arc,イベント追加パックvol.13 キャラクターHイベントプラス 「真実か嘘か」＋衣装
 motion_charaevent014.arc,イベント追加パックvol.14 キャラクターHイベントプラス 「エンパイア・ピンク・サロン」＋衣装
 motion_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
+motion_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 motion_charaevent_anesan.arc,お姉ちゃんパック 〜お姉ちゃんアブノーマルＨイベント＆お姉ちゃんタトゥー〜
 motion_charaevent_genki.arc,ボクっ娘パック 〜ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー〜
 motion_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -1118,6 +1120,7 @@ parts_cas144.arc,コスチュームセット Vol.65
 parts_cd002.arc,グルーブドレスセット＋ボーカルコレクション２
 parts_cd003.arc,サウンドキャットドレス
 parts_charaevent002.arc,イベント追加パックvol.2 キャラクターHイベントプラス　純愛side
+parts_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 parts_charaevent_anesan.arc,お姉ちゃんパック 〜お姉ちゃんアブノーマルＨイベント＆お姉ちゃんタトゥー〜
 parts_charaevent_genki.arc,ボクっ娘パック 〜ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー〜
 parts_charaevent_pride.aba,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -1761,6 +1764,7 @@ script_charaevent014.arc,イベント追加パックvol.14 キャラクターH�
 script_charaevent014add.arc,イベント追加パックvol.14 キャラクターHイベントプラス 「エンパイア・ピンク・サロン」＋衣装』Ver.メイド秘書、お嬢様、純真対応版
 script_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 script_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
+script_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 script_charaevent_anesan.arc,お姉ちゃんパック 〜お姉ちゃんアブノーマルＨイベント＆お姉ちゃんタトゥー〜
 script_charaevent_genki.arc,ボクっ娘パック 〜ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー〜
 script_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -2342,6 +2346,7 @@ voice_charaevent014.arc,イベント追加パックvol.14 キャラクターHイ
 voice_charaevent014add.arc,イベント追加パックvol.14 キャラクターHイベントプラス 「エンパイア・ピンク・サロン」＋衣装』Ver.メイド秘書、お嬢様、純真対応版
 voice_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 voice_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
+voice_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 voice_charaevent_anesan.arc,お姉ちゃんパック 〜お姉ちゃんアブノーマルＨイベント＆お姉ちゃんタトゥー〜
 voice_charaevent_genki.arc,ボクっ娘パック 〜ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー〜
 voice_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -2868,6 +2873,7 @@ parts_dlc464_gp003.aba,カスタムオーダーメイド3D2 コスチューム�
 parts_dlc466_gp003.aba,ノーティーガーリーセット
 parts_dlc467_gp003.aba,オーバーシルエットセット
 parts_dlc468_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.40
+parts_dlc469_gp003.aba,ノベルゴシックセット
 parts_dlc470_gp003.aba,セクシーサスペンダー
 parts_dlc471_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.41
 parts_dlc472_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.41
