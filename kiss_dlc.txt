@@ -1,7 +1,8 @@
-#Ver.2025.03.21
+#Ver.2025.03.23
 #cm3d2plg
 bg_cd002.arc,グルーヴドレスセット
 bg_cr009.arc,仮装パーティセット
+bg_denkigai2017wkey3.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 bg_denkigai2017wpcard.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 bg_denkigai2017wPoster3d21.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 bg_denkigai2017wPosterkaraoke002.arc,電気外祭り2017冬アイテムセット-DLC.Ver
@@ -12,6 +13,7 @@ bg_denkigai2018sposterhubs2.arc,電気外祭り2018夏 ポスター Chu-B Lip S2
 bg_denkigai2018spostermukuti.arc,電気外祭り2018夏 ポスター 無口で甘えたがりな文学少女
 bg_denkigai2018sposteryandere.arc,電気外祭り2018夏 ポスター 病的な程一途な大和撫子
 bg_denkigai2018srecord.arc,電気外祭り2018夏 アナログ盤COM3DVC
+bg_denkigai2018ssposter1.arc,電気外祭り2018夏 スティックポスター 無口で甘えたがりな文学少女
 bg_denkigai2018wpcard.arc,電気外祭り2018冬 電気外祭り2018冬プレゼントカード
 bg_denkigai2019ssposter1.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 bg_denkigai2019ssposter2.arc,電気外祭り2019夏アイテムセット-DLC.Ver
@@ -19,11 +21,25 @@ bg_denkigai2019ssposter3.arc,電気外祭り2019夏 スティックポスター 
 bg_denkigai2019wposter.arc,電気外祭り2019冬 ポスター 高飛車で生意気なお嬢様
 bg_karaoke001.arc,カラオケパックVR VOL.1
 bg_karaoke002.arc,カラオケパックVR VOL.2
+bg_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
+bg_kissevent2018_pamphlet.arc,KISSイベント2018Marchアイテムセット
 bg_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
 bg_pp002.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 bg_pp003p.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 bg_soukiyoyaku.arc,カスタムオーダーメイド3D2専用プラグイン COM3D2-早期予約ファンシーペーパー
 bg_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+bg_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+bg_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+bg_yomeidokanteidan_bromide.arc,叔父のブロマイド
+bg_yomeidokanteidan_coaster.arc,叔父コースター
+bg_yomeidokanteidan_Jewelrybox_b.arc,高価な裏アクセサリーセット
+bg_yomeidokanteidan_minimat.arc,公式メインビジュアル Tシャツ KISS
+bg_yomeidokanteidan_nicepot.arc,良い壺
+bg_yomeidokanteidan_nicescroll.arc,良い掛け軸
+bg_yomeidokanteidan_ojinicescroll.arc,叔父の掛け軸
+bg_yomeidokanteidan_portrait.arc,叔父のブロマイド
+bg_yomeidokanteidan_sticker.arc,鑑定団ステッカー
+bg_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
 csv_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 csv_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 csv_CanKnowTwoClose.arc,カスタムオーダーメイド3D2専用プラグイン かのつく２ Can Know Two Close ダンス
@@ -37,6 +53,7 @@ csv_denkigai2016s.arc,電気外祭り2016夏アイテムセット-DLC.Ver
 csv_denkigai2016w.arc,電気外祭り2016冬アイテムセット-DLC.Ver
 csv_denkigai2017s.arc,電気外祭り2017夏アイテムセット-DLC.Ver
 csv_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
+csv_denkigai2017wkey3.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 csv_denkigai2017wpcard.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 csv_denkigai2017wPoster3d21.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 csv_denkigai2017wPosterkaraoke002.arc,電気外祭り2017冬アイテムセット-DLC.Ver
@@ -48,6 +65,7 @@ csv_denkigai2018sposterhubs2.arc,電気外祭り2018夏 ポスター Chu-B Lip S
 csv_denkigai2018spostermukuti.arc,電気外祭り2018夏 ポスター 無口で甘えたがりな文学少女
 csv_denkigai2018sposteryandere.arc,電気外祭り2018夏 ポスター 病的な程一途な大和撫子
 csv_denkigai2018srecord.arc,電気外祭り2018夏 アナログ盤COM3DVC
+csv_denkigai2018ssposter1.arc,電気外祭り2018夏 スティックポスター 無口で甘えたがりな文学少女
 csv_denkigai2018w.arc,電気外祭り2018冬アイテムセット-DLC.Ver
 csv_denkigai2018wpcard.arc,電気外祭り2018冬 電気外祭り2018冬プレゼントカード
 csv_denkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
@@ -61,12 +79,18 @@ csv_denkigai2021s.arc,電気外祭り2021夏アイテムセット 夏祭りSP
 csv_dlc084.arc,壁の向こうの妻の嬌声2・尾高千夏なりきりセット
 csv_karaoke001.arc,カラオケパックVR VOL.1
 csv_karaoke002.arc,カラオケパックVR VOL.2
+csv_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 csv_kissevent2018.arc,KISSイベント2018Marchアイテムセット
+csv_kissevent2018_pamphlet.arc,KISSイベント2018Marchアイテムセット
 csv_oldplus004.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ヤンデレ
+csv_oldplus_anesan.arc,夜伽&カラオケ付きお姉ちゃんらぶらぶ同棲パック
+csv_oldplus_genki.arc,夜伽＆カラオケ付きボクっ娘らぶらぶ同棲パック
+csv_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
 csv_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 csv_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 csv_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
 csv_omytgc004.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.COM3D2
+csv_omytgc004_old2.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.オールイン+小悪魔、幼馴染、ヤンデレ
 csv_omytgc005.arc,夜伽クラス Vol.23『いいなり拘束セックスメイド&ハードスワップセックスメイド』Ver.COM3D2
 csv_omytgc006.arc,夜伽クラス Vol.24 『マスタープレイメイド&変態恥じらいセックスメイド』Ver.COM3D2
 csv_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
@@ -75,7 +99,24 @@ csv_pp002.arc,カスタムオーダーメイド3D2 互換アイテムセット V
 csv_pp003p.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 csv_soukiyoyaku.arc,カスタムオーダーメイド3D2専用プラグイン COM3D2-早期予約ファンシーペーパー
 csv_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+csv_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+csv_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+csv_yomeidokanteidan_bromide.arc,叔父のブロマイド
+csv_yomeidokanteidan_coaster.arc,叔父コースター
+csv_yomeidokanteidan_Jewelrybox_b.arc,高価な裏アクセサリーセット
+csv_yomeidokanteidan_minimat.arc,公式メインビジュアル Tシャツ KISS
+csv_yomeidokanteidan_nicepot.arc,良い壺
+csv_yomeidokanteidan_nicescroll.arc,良い掛け軸
+csv_yomeidokanteidan_ojinicescroll.arc,叔父の掛け軸
+csv_yomeidokanteidan_portrait.arc,叔父のブロマイド
+csv_yomeidokanteidan_sticker.arc,鑑定団ステッカー
+csv_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
 material_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+material_accessory_bokukko001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリー＆カラオケ追加フルパック feat.ボクっ娘
+material_accessory_secretary001.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+material_accessory_secretary002.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+material_accessory_yandere001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+material_accessory_yandere002.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
 material_bcc.arc,ビットキャッシュコラボキャンペーンアイテム
 material_bcc2.arc,ニューメイドキャップ
 material_bcc3.arc,ビットキャッシュコラボアイテム
@@ -475,6 +516,11 @@ material_dlc263.arc,コロラム・小町谷菜砂水着セット
 material_dlc264.arc,コロラム・帯刀千早水着セット
 material_dlc265.arc,コロラム・綾森リールゥ水着セット
 material_dlc266.arc,コロラム・館ノ川つむり水着セット
+material_dlc267ns.arc,Clochette コロラム！ 私服フルセット（水着+制服フルセット購入者向け）
+material_dlc268ns.arc,コロラム・菜砂私服セット
+material_dlc269ns.arc,コロラム・千早私服セット
+material_dlc270ns.arc,コロラム・リールゥ私服セット
+material_dlc271ns.arc,コロラム・つむり私服セット
 material_dlc274.arc,わんこの嫁入り・フブキヘアー＋アクセサリーセット
 material_dlc275.arc,わんこの嫁入り・カエデヘアー＋アクセサリーセット
 material_dlc277.arc,あいミス！R・アシュリーセット
@@ -694,6 +740,7 @@ material_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 material_karaoke001.arc,カラオケパックVR VOL.1
 material_karaoke002.arc,カラオケパックVR VOL.2
 material_kiss25th.arc,KISS25周年記念Tシャツ
+material_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 material_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 material_lcl.arc,LCメイドスーツセット
 material_magazine003.arc,オフィシャルファンブック3
@@ -721,6 +768,7 @@ material_oldplus010hair2.arc,リファインドヘアセット
 material_oldplus011cloth.arc,クイーンカジュアルセット
 material_oldplus011hair1.arc,クイーンヘアセット
 material_oldplus011hair2.arc,エンプレスヘアセット
+material_oldplus_sadist_cloth1.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 material_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 material_ordermade001.arc,病的な程一途な大和撫子-発売記念セット
 material_ordermade002.arc,スタイリッシュバトラーメイド服
@@ -764,7 +812,24 @@ material_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセッ
 material_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 material_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
 material_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
+material_yomeidokanteidan2_godmaid.arc,ゴッドメイド服
+material_yomeidokanteidan2_queendevilmaid.arc,クイーンデビルメイド服
+material_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+material_yomeidokanteidan_accset_b.arc,高価な裏アクセサリーセット
+material_yomeidokanteidan_appraiser.arc,鑑定士セット
+material_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+material_yomeidokanteidan_legendmaid.arc,伝説のメイド服セット
+material_yomeidokanteidan_realguneset.arc,高価なエアーガンセット（リアル系）
+material_yomeidokanteidan_superguneset.arc,高価なエアーガンセット（スーパー系）
+material_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
+material_yomeidokanteidan_tshirt.arc,鑑定団Ｔシャツ
 menu_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+menu_accessory_bokukko001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリー＆カラオケ追加フルパック feat.ボクっ娘
+menu_accessory_secretary001.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+menu_accessory_secretary002.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+menu_accessory_yandere001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+menu_accessory_yandere002.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+menu_adultplus_hard.arc,アダルトビジュアル強化パック
 menu_bcc.arc,ビットキャッシュコラボキャンペーンアイテム
 menu_bcc2.arc,ニューメイドキャップ
 menu_bcc3.arc,ビットキャッシュコラボアイテム
@@ -867,6 +932,10 @@ menu_cas144.arc,天女セット
 menu_cd001.arc,ミュージックドレスセット
 menu_cd002.arc,グルーヴドレスセット
 menu_cd003.arc,サウンドキャットドレスセット
+menu_charaevent_anesan.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
+menu_charaevent_genki.arc,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
+menu_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
+menu_charaevent_pure.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベント追加パック feat.純真
 menu_com3d2cbp.arc,CBLメイド服V2
 menu_cr001.arc,カスタムオーダーメイド3D2 コスチュームセットVol.25
 menu_cr002.arc,カスタムオーダーメイド3D2 コスチュームセットVol.25
@@ -1166,6 +1235,11 @@ menu_dlc263.arc,コロラム・小町谷菜砂水着セット
 menu_dlc264.arc,コロラム・帯刀千早水着セット
 menu_dlc265.arc,コロラム・綾森リールゥ水着セット
 menu_dlc266.arc,コロラム・館ノ川つむり水着セット
+menu_dlc267ns.arc,Clochette コロラム！ 私服フルセット（水着+制服フルセット購入者向け）
+menu_dlc268ns.arc,コロラム・菜砂私服セット
+menu_dlc269ns.arc,コロラム・千早私服セット
+menu_dlc270ns.arc,コロラム・リールゥ私服セット
+menu_dlc271ns.arc,コロラム・つむり私服セット
 menu_dlc274.arc,わんこの嫁入り・フブキヘアー＋アクセサリーセット
 menu_dlc275.arc,わんこの嫁入り・カエデヘアー＋アクセサリーセット
 menu_dlc277.arc,あいミス！R・アシュリーセット
@@ -1415,6 +1489,7 @@ menu_oldplus010hair2.arc,リファインドヘアセット
 menu_oldplus011cloth.arc,クイーンカジュアルセット
 menu_oldplus011hair1.arc,クイーンヘアセット
 menu_oldplus011hair2.arc,エンプレスヘアセット
+menu_oldplus_sadist_cloth1.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 menu_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 menu_ordermade001.arc,病的な程一途な大和撫子-発売記念セット
 menu_ordermade002.arc,スタイリッシュバトラーメイド服
@@ -1461,7 +1536,23 @@ menu_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセット 
 menu_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 menu_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
 menu_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
+menu_yomeidokanteidan2_godmaid.arc,ゴッドメイド服
+menu_yomeidokanteidan2_queendevilmaid.arc,クイーンデビルメイド服
+menu_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+menu_yomeidokanteidan_accset_b.arc,高価な裏アクセサリーセット
+menu_yomeidokanteidan_appraiser.arc,鑑定士セット
+menu_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+menu_yomeidokanteidan_legendmaid.arc,伝説のメイド服セット
+menu_yomeidokanteidan_realguneset.arc,高価なエアーガンセット（リアル系）
+menu_yomeidokanteidan_superguneset.arc,高価なエアーガンセット（スーパー系）
+menu_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
+menu_yomeidokanteidan_tshirt.arc,鑑定団Ｔシャツ
 model_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+model_accessory_bokukko001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリー＆カラオケ追加フルパック feat.ボクっ娘
+model_accessory_secretary001.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+model_accessory_secretary002.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+model_accessory_yandere001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+model_accessory_yandere002.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
 model_bcc.arc,ビットキャッシュコラボキャンペーンアイテム
 model_bcc2.arc,ニューメイドキャップ
 model_bcc3.arc,ビットキャッシュコラボアイテム
@@ -1861,6 +1952,11 @@ model_dlc263.arc,コロラム・小町谷菜砂水着セット
 model_dlc264.arc,コロラム・帯刀千早水着セット
 model_dlc265.arc,コロラム・綾森リールゥ水着セット
 model_dlc266.arc,コロラム・館ノ川つむり水着セット
+model_dlc267ns.arc,Clochette コロラム！ 私服フルセット（水着+制服フルセット購入者向け）
+model_dlc268ns.arc,コロラム・菜砂私服セット
+model_dlc269ns.arc,コロラム・千早私服セット
+model_dlc270ns.arc,コロラム・リールゥ私服セット
+model_dlc271ns.arc,コロラム・つむり私服セット
 model_dlc274.arc,わんこの嫁入り・フブキヘアー＋アクセサリーセット
 model_dlc275.arc,わんこの嫁入り・カエデヘアー＋アクセサリーセット
 model_dlc277.arc,あいミス！R・アシュリーセット
@@ -2080,6 +2176,7 @@ model_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 model_karaoke001.arc,カラオケパックVR VOL.1
 model_karaoke002.arc,カラオケパックVR VOL.2
 model_kiss25th.arc,KISS25周年記念Tシャツ
+model_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 model_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 model_lcl.arc,LCメイドスーツセット
 model_magazine003.arc,オフィシャルファンブック3
@@ -2107,6 +2204,7 @@ model_oldplus010hair2.arc,リファインドヘアセット
 model_oldplus011cloth.arc,クイーンカジュアルセット
 model_oldplus011hair1.arc,クイーンヘアセット
 model_oldplus011hair2.arc,エンプレスヘアセット
+model_oldplus_sadist_cloth1.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 model_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 model_ordermade001.arc,病的な程一途な大和撫子-発売記念セット
 model_ordermade002.arc,スタイリッシュバトラーメイド服
@@ -2150,6 +2248,17 @@ model_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセット
 model_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 model_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
 model_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
+model_yomeidokanteidan2_godmaid.arc,ゴッドメイド服
+model_yomeidokanteidan2_queendevilmaid.arc,クイーンデビルメイド服
+model_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+model_yomeidokanteidan_accset_b.arc,高価な裏アクセサリーセット
+model_yomeidokanteidan_appraiser.arc,鑑定士セット
+model_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+model_yomeidokanteidan_legendmaid.arc,伝説のメイド服セット
+model_yomeidokanteidan_realguneset.arc,高価なエアーガンセット（リアル系）
+model_yomeidokanteidan_superguneset.arc,高価なエアーガンセット（スーパー系）
+model_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
+model_yomeidokanteidan_tshirt.arc,鑑定団Ｔシャツ
 motion_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 motion_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 motion_CanKnowTwoClose.arc,カスタムオーダーメイド3D2専用プラグイン かのつく２ Can Know Two Close ダンス
@@ -2186,6 +2295,7 @@ motion_denkigai2021s.arc,電気外祭り2021夏アイテムセット 夏祭りSP
 motion_dlc084.arc,壁の向こうの妻の嬌声2・尾高千夏なりきりセット
 motion_karaoke001.arc,カラオケパックVR VOL.1
 motion_karaoke002.arc,カラオケパックVR VOL.2
+motion_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 motion_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 motion_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 motion_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
@@ -2201,6 +2311,9 @@ script_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 script_cbl_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
 script_cbl_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 script_cbl_oldplus004.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ヤンデレ
+script_cbl_oldplus_anesan.arc,夜伽&カラオケ付きお姉ちゃんらぶらぶ同棲パック
+script_cbl_oldplus_genki.arc,夜伽＆カラオケ付きボクっ娘らぶらぶ同棲パック
+script_cbl_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
 script_cbl_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 script_cbl_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 script_cbl_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
@@ -2218,11 +2331,16 @@ script_denkigai2016w.arc,電気外祭り2016冬アイテムセット-DLC.Ver
 script_denkigai2017s.arc,電気外祭り2017夏アイテムセット-DLC.Ver
 script_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 script_dlc084.arc,壁の向こうの妻の嬌声2・尾高千夏なりきりセット
+script_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 script_oldplus004.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ヤンデレ
+script_oldplus_anesan.arc,夜伽&カラオケ付きお姉ちゃんらぶらぶ同棲パック
+script_oldplus_genki.arc,夜伽＆カラオケ付きボクっ娘らぶらぶ同棲パック
+script_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
 script_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 script_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 script_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
 script_omytgc004.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.COM3D2
+script_omytgc004_old2.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.オールイン+小悪魔、幼馴染、ヤンデレ
 script_omytgc005.arc,夜伽クラス Vol.23『いいなり拘束セックスメイド&ハードスワップセックスメイド』Ver.COM3D2
 script_omytgc006.arc,夜伽クラス Vol.24 『マスタープレイメイド&変態恥じらいセックスメイド』Ver.COM3D2
 script_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
@@ -2242,6 +2360,12 @@ system_dlc084.arc,壁の向こうの妻の嬌声2・尾高千夏なりきりセ�
 system_pp002.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 system_pp003p.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 texture_3d21reserve.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+texture_accessory_bokukko001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリー＆カラオケ追加フルパック feat.ボクっ娘
+texture_accessory_secretary001.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+texture_accessory_secretary002.arc,カスタムオーダーメイド3D2+GP-01対応パック+アクセサリーセット追加フルパック feat.メイド秘書
+texture_accessory_yandere001.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+texture_accessory_yandere002.arc,カスタムオーダーメイド3D2+GP-01Fb対応パック+アクセサリーセット追加フルパック feat.ヤンデレ
+texture_adultplus_hard.arc,アダルトビジュアル強化パック
 texture_bcc.arc,ビットキャッシュコラボキャンペーンアイテム
 texture_bcc2.arc,ニューメイドキャップ
 texture_bcc3.arc,ビットキャッシュコラボアイテム
@@ -2345,6 +2469,10 @@ texture_cas144.arc,天女セット
 texture_cd001.arc,ミュージックドレスセット
 texture_cd002.arc,グルーヴドレスセット
 texture_cd003.arc,サウンドキャットドレスセット
+texture_charaevent_anesan.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
+texture_charaevent_genki.arc,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
+texture_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
+texture_charaevent_pure.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベント追加パック feat.純真
 texture_com3d2cbp.arc,CBLメイド服V2
 texture_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 texture_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
@@ -2647,6 +2775,11 @@ texture_dlc263.arc,コロラム・小町谷菜砂水着セット
 texture_dlc264.arc,コロラム・帯刀千早水着セット
 texture_dlc265.arc,コロラム・綾森リールゥ水着セット
 texture_dlc266.arc,コロラム・館ノ川つむり水着セット
+texture_dlc267ns.arc,Clochette コロラム！ 私服フルセット（水着+制服フルセット購入者向け）
+texture_dlc268ns.arc,コロラム・菜砂私服セット
+texture_dlc269ns.arc,コロラム・千早私服セット
+texture_dlc270ns.arc,コロラム・リールゥ私服セット
+texture_dlc271ns.arc,コロラム・つむり私服セット
 texture_dlc274.arc,わんこの嫁入り・フブキヘアー＋アクセサリーセット
 texture_dlc275.arc,わんこの嫁入り・カエデヘアー＋アクセサリーセット
 texture_dlc277.arc,あいミス！R・アシュリーセット
@@ -2896,6 +3029,7 @@ texture_oldplus010hair2.arc,リファインドヘアセット
 texture_oldplus011cloth.arc,クイーンカジュアルセット
 texture_oldplus011hair1.arc,クイーンヘアセット
 texture_oldplus011hair2.arc,エンプレスヘアセット
+texture_oldplus_sadist_cloth1.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 texture_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 texture_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 texture_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
@@ -2949,6 +3083,17 @@ texture_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセッ�
 texture_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 texture_x001kai.arc,カスタムオーダーメイド3D2&2.5＋X1改
 texture_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
+texture_yomeidokanteidan2_godmaid.arc,ゴッドメイド服
+texture_yomeidokanteidan2_queendevilmaid.arc,クイーンデビルメイド服
+texture_yomeidokanteidan_accset.arc,高価なアクセサリーセット 宝石箱
+texture_yomeidokanteidan_accset_b.arc,高価な裏アクセサリーセット
+texture_yomeidokanteidan_appraiser.arc,鑑定士セット
+texture_yomeidokanteidan_bladeset.arc,嫁イド鑑定団・名刀セット
+texture_yomeidokanteidan_legendmaid.arc,伝説のメイド服セット
+texture_yomeidokanteidan_realguneset.arc,高価なエアーガンセット（リアル系）
+texture_yomeidokanteidan_superguneset.arc,高価なエアーガンセット（スーパー系）
+texture_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
+texture_yomeidokanteidan_tshirt.arc,鑑定団Ｔシャツ
 voice_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 voice_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 voice_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
@@ -2961,11 +3106,16 @@ voice_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 voice_dlc084.arc,壁の向こうの妻の嬌声2・尾高千夏なりきりセット
 voice_karaoke001.arc,カラオケパックVR VOL.1
 voice_karaoke002.arc,カラオケパックVR VOL.2
+voice_kissevent2017march.arc,KISSイベント2017Marchアイテムセット
 voice_oldplus004.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ヤンデレ
+voice_oldplus_anesan.arc,夜伽&カラオケ付きお姉ちゃんらぶらぶ同棲パック
+voice_oldplus_genki.arc,夜伽＆カラオケ付きボクっ娘らぶらぶ同棲パック
+voice_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
 voice_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
 voice_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 voice_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
 voice_omytgc004.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.COM3D2
+voice_omytgc004_old2.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.オールイン+小悪魔、幼馴染、ヤンデレ
 voice_omytgc005.arc,夜伽クラス Vol.23『いいなり拘束セックスメイド&ハードスワップセックスメイド』Ver.COM3D2
 voice_omytgc006.arc,夜伽クラス Vol.24 『マスタープレイメイド&変態恥じらいセックスメイド』Ver.COM3D2
 voice_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
@@ -2983,6 +3133,7 @@ bg_charaevent009.arc,イベント追加パックvol.9 キャラクターHイベ�
 bg_charaevent010.arc,イベント追加パックvol.10 キャラクターHイベントプラス　NTRside
 bg_charaevent011.arc,イベント追加パックvol.11 キャラクターHイベントプラス 純愛side
 bg_christmas2024eve.arc,クリスマスカフェSP
+bg_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
 bg_cr009.arc,仮装パーティセット
 bg_cw002.arc,カスタムオーダーメイド3D2 コスチューム+ショッピングセットVol.2
 bg_cw003.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.3
@@ -2992,6 +3143,7 @@ bg_cw009.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆ハイ
 bg_cw010.arc,コスチュームセット Vol.67 セット購入特典背景
 bg_dance_aikiss2.arc,戯画・アイキス2・Kiss me! choose me!
 bg_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス　フルセット
+bg_dance_ssn.arc,さくらうららか、はらひらり ダンス
 bg_denkigai2017wkey3.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 bg_denkigai2017wpcard.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 bg_denkigai2017wPoster3d21.arc,電気外祭り2017冬アイテムセット-DLC.Ver
@@ -3051,6 +3203,7 @@ bg_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆
 bg_free001.arc,恵方巻
 bg_free003.arc,雛人形セット
 bg_free004.arc,ホワイトデーのクッキーセット
+bg_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 bg_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 bg_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 bg_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
@@ -3100,6 +3253,7 @@ bg_personal_om010.arc,シャローメイド服セット
 bg_personal_om011.arc,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん
 bg_personal_om012.arc,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女
 bg_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
+bg_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 bg_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 bg_smsp001.arc,カスタムオーダーメイド拘束台SP
 bg_soukiyoyaku.arc,カスタムオーダーメイド3D2専用プラグイン COM3D2-早期予約ファンシーペーパー
@@ -3114,6 +3268,7 @@ bg_studio002.arc,スタジオモード強化パック Vol.02
 bg_studio003.arc,スタジオモード強化パック Vol.03
 bg_studio004.arc,スタジオモード強化パック Vol.04
 bg_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+bg_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 bg_valentine2023.arc,カスタムオーダーメイド3D2 バレンタインカラオケパック　改革的ハートグラフィー
 bg_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 bg_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -3152,6 +3307,7 @@ csv_april2020.arc,カスタムオーダーメイド3D2 A.K.パック体験版
 csv_av001.arc,カスタムオーダーメイド3D2 AVパック
 csv_av002.arc,カスタムオーダーメイド3D2 AVパックVol.02
 csv_av002_add.arc,カスタムオーダーメイド3D2 AVパックVol.02 Ver.メイド秘書、妹、無愛想
+csv_binaural001.arc,カスタムオーダーメイド3D2　メイドのバイノーラルハーレムご奉仕ボイス
 csv_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 csv_bugbug003_old.arc,夜伽クラス バグバグオーダーメイド CM3D2性格対応
 csv_cafesp001.arc,エンパイアバラエティSP 2023 Summer
@@ -3196,8 +3352,10 @@ csv_christmas2024eve.arc,クリスマスカフェSP
 csv_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 csv_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
 csv_cos022.arc,マンスリーパックVol.22 レンタルメイドプラス 土豆瑠璃子(イベント)
-csv_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-csv_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+csv_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+csv_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+csv_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+csv_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 csv_cr009.arc,仮装パーティセット
 csv_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 csv_crshop001.arc,カスタムオーダーメイド3D2 CRショップ ミニイベントセット Vol.1
@@ -3225,6 +3383,7 @@ csv_dance_reg.arc,カスタムオーダーメイド3D2専用プラグイン レ�
 csv_dance_rub.arc,カスタムオーダーメイド3D2 キャラクターパック 生真面目で甘え下手な淑女 オフィシャルページ
 csv_dance_smt.arc,カスタムオーダーメイド3D2専用プラグイン stellar my tears
 csv_dance_sse.arc,カスタムオーダーメイド3D2専用プラグイン sweet sweet everyday
+csv_dance_ssn.arc,さくらうららか、はらひらり ダンス
 csv_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 csv_denkigai2017wkey3.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 csv_denkigai2017wpcard.arc,電気外祭り2017冬アイテムセット-DLC.Ver
@@ -3294,6 +3453,7 @@ csv_franchise001_add.arc,事業拡大パック『ラブホテル』『ノーマ�
 csv_free001.arc,恵方巻
 csv_free003.arc,雛人形セット
 csv_free004.arc,ホワイトデーのクッキーセット
+csv_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 csv_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 csv_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 csv_gp001fbp1.arc,カスタムオーダーメイド3D2 ダンスムービー speed up mind
@@ -3328,7 +3488,7 @@ csv_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデート�
 csv_karaoke007_add.arc,カスタムオーダーメイド3D2 カラオケWデートパック　Ver.お嬢様 幼馴染
 csv_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
 csv_karaoke008_add.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック　Ver.ボクっ娘、ドＳ
-csv_karaoke009.arc,クリスマスカラオケSP
+csv_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 csv_karaoke010khg.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 csv_karaoke010ss.arc,NEKO WORKs・ネコぱら・SWEET×SWEET
 csv_karaoke011.arc,カラオケパック カラオケパーティSP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
@@ -3342,6 +3502,7 @@ csv_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラオ
 csv_karaoke014.arc,カスタムオーダーメイド3D2 メイドカラオケパック Special DIVA Edition
 csv_karaoke015.arc,カラオケパーティSP『sweet sweet everyday』
 csv_karaoke016.arc,メイドカラオケパック Special DIVA Edition Vol.02
+csv_karaoke017.arc,カラオケパーティSP　メドレーカラオケ
 csv_karaoke_valentine2023.arc,カラオケパック　改革的ハートグラフィー【楽曲追加版】Ver.無垢、真面目、凜デレ、純真、ツンデレ、クーデレ、ヤンデレ、ドＳ（『文学少女～無愛想』購入者向け）
 csv_kashizuki001.arc,カスタムオーダーメイド3D2 傅きモード強化パック
 csv_kissevent2018.arc,KISSイベント2018Marchアイテムセット
@@ -3523,6 +3684,7 @@ csv_personal_om012_gp001.arc,カスタムオーダーメイド3D2＋GP-01
 csv_personal_om012_gp001fb.arc,カスタムオーダーメイド3D2＋ GP-01Fb
 csv_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 csv_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+csv_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 csv_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 csv_selfishdestiny.arc,MML・Selfish Destiny ダンス
 csv_senkyo001.arc,1st only you ダンス＆イベント
@@ -3542,6 +3704,7 @@ csv_studio002.arc,スタジオモード強化パック Vol.02
 csv_studio003.arc,スタジオモード強化パック Vol.03
 csv_studio004.arc,スタジオモード強化パック Vol.04
 csv_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+csv_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 csv_textureset003.arc,未来形瞳&ポーズセット
 csv_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 csv_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
@@ -3587,6 +3750,7 @@ motion_adultplus_pink.arc,アダルト機能強化パックPINK
 motion_april2020.arc,カスタムオーダーメイド3D2 A.K.パック体験版
 motion_av001.arc,カスタムオーダーメイド3D2 AVパック
 motion_av002.arc,カスタムオーダーメイド3D2 AVパックVol.02
+motion_binaural001.arc,カスタムオーダーメイド3D2　メイドのバイノーラルハーレムご奉仕ボイス
 motion_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 motion_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 motion_candygirl.arc,カスタムオーダーメイド3D2専用プラグイン candy girl ダンス
@@ -3597,6 +3761,7 @@ motion_cbl_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 motion_cbl_candygirl.arc,カスタムオーダーメイド3D2専用プラグイン candy girl ダンス
 motion_cbl_canknowtwoclose.arc,かのつく２・Can Know Two Close ダンス
 motion_cbl_christmas2024eve.arc,クリスマスカフェSP
+motion_cbl_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
 motion_cbl_cw006.arc,カスタムオーダーメイド3D2 コスチューム+ショッピングセットVol.3
 motion_cbl_cw008d.arc,コスチュームセット Vol.63『ドレスSP』withモーションプラス『ノーマル＆ハイポリ
 motion_cbl_cw009.arc,コスチュームセット Vol.64 初詣SP『ノーマル＆ハイポリ
@@ -3626,10 +3791,11 @@ motion_cbl_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶら�
 motion_cbl_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
 motion_cbl_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
 motion_cbl_feswinter2022.arc,エンパイアフェスティバルパック 2022 winter
+motion_cbl_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 motion_cbl_karaoke004.arc,カスタムオーダーメイド3D2カラオケパックVR VOL.2
 motion_cbl_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 motion_cbl_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
-motion_cbl_karaoke009.arc,クリスマスカラオケSP
+motion_cbl_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 motion_cbl_karaoke010khg.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 motion_cbl_karaoke010ss.arc,NEKO WORKs・ネコぱら・SWEET×SWEET
 motion_cbl_karaoke011.arc,カラオケパック カラオケパーティSP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
@@ -3637,6 +3803,7 @@ motion_cbl_karaoke013.arc,カスタムオーダーメイド3D2 エンパイア�
 motion_cbl_karaoke014.arc,カスタムオーダーメイド3D2 メイドカラオケパック Special DIVA Edition
 motion_cbl_karaoke015.arc,カラオケパーティSP『sweet sweet everyday』
 motion_cbl_karaoke016.arc,メイドカラオケパック Special DIVA Edition Vol.02
+motion_cbl_karaoke017.arc,カラオケパーティSP　メドレーカラオケ
 motion_cbl_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 motion_cbl_maidtaisou.arc,メイド体操第一 ダンス
 motion_cbl_nekoparataiyo.arc,ネコぱらコラボ・タイヨウパラダイス
@@ -3650,14 +3817,14 @@ motion_cbl_oldplus_pride.arc,カスタムオーダーメイド3D2 夜伽＆カ�
 motion_cbl_oldplus_pure.arc,カスタムオーダーメイド3D2 夜伽＆カラオケ付き純真らぶらぶ同棲パック
 motion_cbl_oldplus_sadist.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 motion_cbl_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
-motion_cbl_omytgc001.arc,夜伽クラス Vol.19 変態辱めセックスメイド&ソープご奉仕セックスメイド
-motion_cbl_omytgc002.arc,夜伽クラス Vol.20 アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド
-motion_cbl_omytgc003.arc,夜伽クラス Vol.21 らぶらぶメイド&欲情メイド
-motion_cbl_omytgc004.arc,夜伽クラス Vol.22 拘束変態責めメイド&ハードセックスメイド
-motion_cbl_omytgc005.arc,夜伽クラス Vol.23 服従セックスメイド&ハードスワップセックスメイド
-motion_cbl_omytgc006.arc,夜伽クラス Vol.24 マスタープレイメイド&変態恥辱セックスメイド
-motion_cbl_omytgc007.arc,夜伽クラス Vol.25 甘やかしマザーメイド&ご奉仕マザーメイド
-motion_cbl_omytgc008.arc,夜伽クラス Vol.26 マニアックプレイメイド&ハード拘束プレイメイド
+motion_cbl_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
+motion_cbl_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
+motion_cbl_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
+motion_cbl_omytgc004.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.COM3D2
+motion_cbl_omytgc005.arc,夜伽クラス Vol.23『いいなり拘束セックスメイド&ハードスワップセックスメイド』Ver.COM3D2
+motion_cbl_omytgc006.arc,夜伽クラス Vol.24 『マスタープレイメイド&変態恥じらいセックスメイド』Ver.COM3D2
+motion_cbl_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
+motion_cbl_omytgc008.arc,夜伽クラス Vol.26 『マニアックプレイメイド&ハード拘束プレイメイド』Ver.COM3D2
 motion_cbl_omytgc009.arc,夜伽クラス Vol.27 ソフトSMメイド
 motion_cbl_omytgc010.arc,夜伽クラス Vol.28 調教プレイメイド
 motion_cbl_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
@@ -3685,13 +3852,16 @@ motion_cbl_omytgc033.arc,夜伽クラス Vol.48 『ラブセックスソファ�
 motion_cbl_omytgc034.arc,夜伽クラスSP『+&ACT2リバイバル』『インモラルメイド+&スクールメイド+』Ver.無垢、真面目、凜デレ、文学少女、小悪魔、おしとやか
 motion_cbl_omytgc035.arc,夜伽クラスSP『ACT3リバイバル-ディスペアメイド』ver. 文学少女、小悪魔、おしとやか
 motion_cbl_pajama001.arc,ぱじゃまエクスタシー・あまあまシェアリング・なりきり夜伽セット
+motion_cbl_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 motion_cbl_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+motion_cbl_selfishdestiny.arc,MML・Selfish Destiny ダンス
 motion_cbl_senkyo001.arc,キャラクター総選挙第一位記念ダンス 1st only you
 motion_cbl_studio001.arc,スタジオモード強化パック
 motion_cbl_studio002.arc,スタジオモード強化パック Vol.02
 motion_cbl_studio003.arc,スタジオモード強化パック Vol.03
 motion_cbl_studio004.arc,スタジオモード強化パック Vol.04
 motion_cbl_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
+motion_cbl_wonderingbeads.arc,wondering beads ダンス
 motion_cbl_xmas2021event2.arc,クリスマスカラオケSP
 motion_charaevent001.arc,イベント追加パックvol.1 キャラクターHイベントプラス
 motion_charaevent002.arc,イベント追加パックvol.2 キャラクターHイベントプラス　純愛side
@@ -3716,8 +3886,8 @@ motion_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベ�
 motion_charaevent_pure.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベント追加パック feat.純真
 motion_christmas2024eve.arc,クリスマスカフェSP
 motion_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
-motion_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-motion_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+motion_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+motion_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
 motion_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 motion_crshop004.arc,カスタムオーダーメイド3D2 CRショップ NPCミニイベントセット
 motion_cw003.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.3
@@ -3735,6 +3905,7 @@ motion_dance_reg.arc,カスタムオーダーメイド3D2専用プラグイン �
 motion_dance_rub.arc,カスタムオーダーメイド3D2 キャラクターパック 生真面目で甘え下手な淑女 オフィシャルページ
 motion_dance_smt.arc,カスタムオーダーメイド3D2専用プラグイン stellar my tears
 motion_dance_sse.arc,カスタムオーダーメイド3D2専用プラグイン sweet sweet everyday
+motion_dance_ssn.arc,さくらうららか、はらひらり ダンス
 motion_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 motion_denkigai2018s.arc,電気外祭り2018夏アイテムセット-DLC.Ver
 motion_denkigai2018w.arc,電気外祭り2018冬アイテムセット-DLC.Ver
@@ -3762,6 +3933,7 @@ motion_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パ�
 motion_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
 motion_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 motion_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
+motion_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 motion_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 motion_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 motion_gp001fbp1.arc,カスタムオーダーメイド3D2 ダンスムービー speed up mind
@@ -3779,7 +3951,7 @@ motion_karaoke005.arc,カスタムオーダーメイド3D2カラオケパックV
 motion_karaoke006.arc,カスタムオーダーメイド3D2カラオケパックVR VOL.4
 motion_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 motion_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
-motion_karaoke009.arc,クリスマスカラオケSP
+motion_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 motion_karaoke010khg.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 motion_karaoke010ss.arc,NEKO WORKs・ネコぱら・SWEET×SWEET
 motion_karaoke011.arc,カラオケパック カラオケパーティSP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
@@ -3787,6 +3959,7 @@ motion_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラ
 motion_karaoke014.arc,カスタムオーダーメイド3D2 メイドカラオケパック Special DIVA Edition
 motion_karaoke015.arc,カラオケパーティSP『sweet sweet everyday』
 motion_karaoke016.arc,メイドカラオケパック Special DIVA Edition Vol.02
+motion_karaoke017.arc,カラオケパーティSP　メドレーカラオケ
 motion_kashizuki001.arc,カスタムオーダーメイド3D2 傅きモード強化パック
 motion_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 motion_kissnohi001.arc,キスの日プラグイン
@@ -3864,6 +4037,7 @@ motion_personal_om011.arc,カスタムオーダーメイド3D2キャラクター
 motion_personal_om012.arc,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女
 motion_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 motion_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+motion_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 motion_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 motion_selfishdestiny.arc,MML・Selfish Destiny ダンス
 motion_senkyo001.arc,1st only you ダンス＆イベント
@@ -3875,6 +4049,7 @@ motion_studio002.arc,スタジオモード強化パック Vol.02
 motion_studio003.arc,スタジオモード強化パック Vol.03
 motion_studio004.arc,スタジオモード強化パック Vol.04
 motion_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+motion_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 motion_textureset003.arc,未来形瞳&ポーズセット
 motion_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 motion_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -4059,8 +4234,8 @@ parts_charaevent_pride.arc,カスタムオーダーメイド3D2 旅行Hイベン
 parts_charaevent_pure.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベント追加パック feat.純真
 parts_christmas2024eve.arc,クリスマスカフェSP
 parts_com3d2cbp.arc,CBLメイド服V2
-parts_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-parts_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+parts_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+parts_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
 parts_cr001.arc,カスタムオーダーメイド3D2 コスチュームセットVol.25
 parts_cr002.arc,カスタムオーダーメイド3D2 コスチュームセットVol.25
 parts_cr003.arc,カスタムオーダーメイド3D2 コスチュームセットVol.25
@@ -4470,6 +4645,7 @@ parts_oldplus_pride.arc,カスタムオーダーメイド3D2 夜伽＆カラオ�
 parts_oldplus_pure.arc,カスタムオーダーメイド3D2 夜伽＆カラオケ付き純真らぶらぶ同棲パック
 parts_oldplus_sadist.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 parts_oldplus_sadist_cloth1.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
+parts_omvr.arc,伝説のからあげ　イヤリング
 parts_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
 parts_omytgc015.arc,夜伽クラス Vol.33 『逆転変態プレイメイド』
 parts_omytgc022.arc,夜伽クラス Vol.40 『変態マニアックSMプレイメイド』
@@ -4497,6 +4673,7 @@ parts_personal_om013cloth.arc,カスタムオーダーメイド3D2&2.5 キャラ
 parts_personal_om013hair1.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル
 parts_personal_om013underwear.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル
 parts_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+parts_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 parts_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 parts_shop011.arc,フラウメイド服
 parts_shop014.arc,ファビュラスマダムセット
@@ -4536,6 +4713,7 @@ parts_tanabata2022.arc,たなばたらんじぇりー無償DLC
 parts_tech003.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_tech004.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+parts_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 parts_textureset001.arc,瞳&男性ボディパーツ強化セット
 parts_textureset002.arc,異世界クラス&モン娘タトゥーセット
 parts_textureset003.arc,未来形瞳&ポーズセット
@@ -4576,9 +4754,14 @@ script_adultplus_pink_add2.arc,アダルト機能強化パックPINK 妹、幼�
 script_april2020.arc,カスタムオーダーメイド3D2 A.K.パック体験版
 script_av001.arc,カスタムオーダーメイド3D2 AVパック
 script_av002.arc,カスタムオーダーメイド3D2 AVパックVol.02
+script_binaural001.arc,カスタムオーダーメイド3D2　メイドのバイノーラルハーレムご奉仕ボイス
 script_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 script_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 script_cbl_cafesp001.arc,エンパイアバラエティSP 2023 Summer
+script_cbl_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+script_cbl_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+script_cbl_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+script_cbl_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 script_cbl_cw006.arc,カスタムオーダーメイド3D2 コスチューム+ショッピングセットVol.3
 script_cbl_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 script_cbl_denkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
@@ -4598,6 +4781,7 @@ script_cbl_eventplus_secretary.arc,夜伽&カラオケ付きメイド秘書ら�
 script_cbl_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶらぶ同棲パック
 script_cbl_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
 script_cbl_feswinter2022.arc,エンパイアフェスティバルパック 2022 winter
+script_cbl_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 script_cbl_oldplus004.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ヤンデレ
 script_cbl_oldplus006.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ボクっ娘
 script_cbl_oldplus007.arc,カスタムオーダーメイド3D2 夜伽＆警戒&恋人+状態＆Hイベント追加パック feat.ドＳ
@@ -4608,18 +4792,18 @@ script_cbl_oldplus_pride.arc,カスタムオーダーメイド3D2 夜伽＆カ�
 script_cbl_oldplus_pure.arc,カスタムオーダーメイド3D2 夜伽＆カラオケ付き純真らぶらぶ同棲パック
 script_cbl_oldplus_sadist.arc,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 script_cbl_oldplus_yandere.arc,夜伽＆カラオケ付きヤンデレらぶらぶ同棲パック
-script_cbl_omytgc001.arc,夜伽クラス Vol.19 変態辱めセックスメイド&ソープご奉仕セックスメイド
-script_cbl_omytgc002.arc,夜伽クラス Vol.20 アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド
-script_cbl_omytgc003.arc,夜伽クラス Vol.21 らぶらぶメイド&欲情メイド
+script_cbl_omytgc001.arc,夜伽クラス Vol.19『変態羞恥セックスメイド&ソープご奉仕セックスメイド』Ver.COM3D2
+script_cbl_omytgc002.arc,夜伽クラス Vol.20『アブノーマル卑猥セックスメイド&癒しラブラブ奉仕メイド』Ver.COM3D2
+script_cbl_omytgc003.arc,夜伽クラス Vol.21『らぶらぶメイド&欲情メイド』Ver.COM3D2追加ヒロインタイプ対応版
 script_cbl_omytgc003plus.arc,夜伽クラス Vol.21 らぶらぶメイド&欲情メイド Ver.文学少女、小悪魔、おしとやか、メイド秘書
-script_cbl_omytgc004.arc,夜伽クラス Vol.22 拘束変態責めメイド&ハードセックスメイド
+script_cbl_omytgc004.arc,夜伽クラス Vol.22『拘束変態責めメイド&ハードセックスメイド』Ver.COM3D2
 script_cbl_omytgc004_add.arc,夜伽クラス Vol.22 拘束変態責めメイド&ハードセックスメイド Ver.小悪魔、幼馴染
-script_cbl_omytgc005.arc,夜伽クラス Vol.23 服従セックスメイド&ハードスワップセックスメイド
-script_cbl_omytgc006.arc,夜伽クラス Vol.24 マスタープレイメイド&変態恥辱セックスメイド
+script_cbl_omytgc005.arc,夜伽クラス Vol.23『いいなり拘束セックスメイド&ハードスワップセックスメイド』Ver.COM3D2
+script_cbl_omytgc006.arc,夜伽クラス Vol.24 『マスタープレイメイド&変態恥じらいセックスメイド』Ver.COM3D2
 script_cbl_omytgc006_add.arc,夜伽クラス Vol.24 マスタープレイメイド&変態恥辱セックスメイド Ver.妹、無愛想、お嬢様 、幼馴染
-script_cbl_omytgc007.arc,夜伽クラス Vol.25 甘やかしマザーメイド&ご奉仕マザーメイド
+script_cbl_omytgc007.arc,夜伽クラス Vol.25 『甘やかしマザーメイド&ご奉仕マザーメイド』Ver.COM3D2
 script_cbl_omytgc007_add.arc,夜伽クラス Vol.25 甘やかしマザーメイド&ご奉仕マザーメイド Ver.ヤンデレ、お姉ちゃん、 ボクっ娘、ドS
-script_cbl_omytgc008.arc,夜伽クラス Vol.26 マニアックプレイメイド&ハード拘束プレイメイド
+script_cbl_omytgc008.arc,夜伽クラス Vol.26 『マニアックプレイメイド&ハード拘束プレイメイド』Ver.COM3D2
 script_cbl_omytgc009.arc,夜伽クラス Vol.27 ソフトSMメイド
 script_cbl_omytgc010.arc,夜伽クラス Vol.28 調教プレイメイド
 script_cbl_omytgc011.arc,夜伽クラス Vol.29 ハードSMプレイメイド
@@ -4705,8 +4889,10 @@ script_christmas2024eve.arc,クリスマスカフェSP
 script_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 script_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
 script_cos022.arc,マンスリーパックVol.22 レンタルメイドプラス 土豆瑠璃子(イベント)
-script_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-script_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+script_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+script_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+script_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+script_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 script_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 script_crshop001.arc,カスタムオーダーメイド3D2 CRショップ ミニイベントセット Vol.1
 script_crshop002.arc,カスタムオーダーメイド3D2 CRショップ ミニイベントセット Vol.2
@@ -4765,6 +4951,7 @@ script_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パ�
 script_exm001.arc,カスタムオーダーメイド3D2専用プラグイン エキストラメイド12名追加パック
 script_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 script_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
+script_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 script_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 script_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 script_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
@@ -4778,7 +4965,7 @@ script_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 script_halloween2021.arc,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
 script_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 script_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
-script_karaoke009.arc,クリスマスカラオケSP
+script_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 script_karaoke010.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 script_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラオケ歌合戦SP
 script_karaoke_valentine2023.arc,カラオケパック　改革的ハートグラフィー【楽曲追加版】Ver.無垢、真面目、凜デレ、純真、ツンデレ、クーデレ、ヤンデレ、ドＳ（『文学少女～無愛想』購入者向け）
@@ -4904,6 +5091,7 @@ script_personal_om012_gp001.arc,カスタムオーダーメイド3D2＋GP-01
 script_personal_om012_gp001fb.arc,カスタムオーダーメイド3D2＋ GP-01Fb
 script_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 script_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+script_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 script_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 script_senkyo001.arc,1st only you ダンス＆イベント
 script_share_karaoke.arc,クリスマスカラオケSP
@@ -4922,6 +5110,7 @@ script_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Su
 script_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 script_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 script_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+script_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 script_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 script_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 script_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -4942,8 +5131,10 @@ sound2.arc,タキシードバニー&エレガントバニー　Wバニーアダ�
 sound_3d21reserve2.arc,カスタムオーダーメイド3D2専用 プラグイン グレードアップ予約キャンペーン Vol.2
 sound_candygirl.arc,カスタムオーダーメイド3D2専用プラグイン candy girl ダンス
 sound_canknowtwoclose.arc,カスタムオーダーメイド3D2専用プラグイン かのつく２ Can Know Two Close ダンス
-sound_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-sound_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+sound_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+sound_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+sound_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+sound_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 sound_cw008d.arc,コスチュームセット Vol.63『ドレスSP』withモーションプラス『ノーマル＆ハイポリ
 sound_dance_aikiss2.arc,戯画・アイキス2・Kiss me! choose me!
 sound_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス　フルセット
@@ -4955,6 +5146,7 @@ sound_dance_rub.arc,カスタムオーダーメイド3D2 キャラクターパ�
 sound_dance_sfd.arc,MML・Selfish Destiny ダンス
 sound_dance_smt.arc,カスタムオーダーメイド3D2専用プラグイン stellar my tears
 sound_dance_sse.arc,カスタムオーダーメイド3D2専用プラグイン sweet sweet everyday
+sound_dance_ssn.arc,さくらうららか、はらひらり ダンス
 sound_denkigai2021s.arc,電気外祭り2021夏アイテムセット 夏祭りSP
 sound_dlc305.arc,戯画・アイキス・恋しちゃったみたい
 sound_dlc504set.arc,コスチュームセットVol.50『ラグジュアリーSP』withモーションプラス
@@ -4983,7 +5175,7 @@ sound_karaoke005.arc,カスタムオーダーメイド3D2カラオケパックVR
 sound_karaoke006.arc,カスタムオーダーメイド3D2カラオケパックVR VOL.4
 sound_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 sound_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
-sound_karaoke009.arc,クリスマスカラオケSP
+sound_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 sound_karaoke010khg.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 sound_karaoke010ss.arc,NEKO WORKs・ネコぱら・SWEET×SWEET
 sound_karaoke011.arc,カラオケパック カラオケパーティSP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
@@ -4996,6 +5188,7 @@ sound_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラ�
 sound_karaoke014.arc,カスタムオーダーメイド3D2 メイドカラオケパック Special DIVA Edition
 sound_karaoke015.arc,カラオケパーティSP『sweet sweet everyday』
 sound_karaoke016.arc,メイドカラオケパック Special DIVA Edition Vol.02
+sound_karaoke017.arc,カラオケパーティSP　メドレーカラオケ
 sound_magazine003.arc,オフィシャルファンブック3
 sound_maidtaisou.arc,メイド体操第一　ダンス
 sound_nekoparataiyo.arc,カスタムオーダーメイド3D2専用プラグイン ネコぱらコラボ タイヨウパラダイス
@@ -5027,6 +5220,7 @@ sound_personal_om010.arc,シャローメイド服セット
 sound_personal_om011.arc,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん
 sound_personal_om012.arc,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女
 sound_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
+sound_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 sound_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 sound_senkyo001.arc,1st only you ダンス＆イベント
 sound_wonderingbeads.arc,wondering beads ダンス
@@ -5048,8 +5242,11 @@ system_charaevent006ntr.arc,イベント追加パックvol.6 キャラクターH
 system_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 system_cos021.arc,マンスリーパック Vol.21 スキルプラス 女王様手コキ
 system_cos022.arc,マンスリーパックVol.22 レンタルメイドプラス 土豆瑠璃子(イベント)
-system_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-system_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+system_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+system_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+system_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+system_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
+system_coupling004a.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 system_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 system_crshop004.arc,カスタムオーダーメイド3D2 CRショップ NPCミニイベントセット
 system_cw006.arc,カスタムオーダーメイド3D2 コスチューム+ショッピングセットVol.3
@@ -5058,6 +5255,7 @@ system_dance_aikiss3.arc,戯画・アイキス3・コスチューム＆ダンス
 system_dance_cil.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 system_dance_khg.arc,改革的ハートグラフィー
 system_dance_rub.arc,カスタムオーダーメイド3D2 キャラクターパック 生真面目で甘え下手な淑女 オフィシャルページ
+system_dance_ssn.arc,さくらうららか、はらひらり ダンス
 system_denkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 system_denkigai2017wpcard.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 system_denkigai2018s.arc,電気外祭り2018夏アイテムセット-DLC.Ver
@@ -5104,6 +5302,7 @@ system_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パ�
 system_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
 system_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 system_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
+system_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 system_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 system_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 system_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
@@ -5115,7 +5314,7 @@ system_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 system_karaoke004yandere.arc,カラオケパック　ヤンデレカラオケSP
 system_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 system_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
-system_karaoke009.arc,クリスマスカラオケSP
+system_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 system_karaoke010.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 system_karaoke011.arc,カラオケパック カラオケパーティSP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想
 system_karaoke011add.arc,カラオケパック カラオケパーティSP Ver.無垢、真面目、凜デレ、ツンデレ、クーデレ、純真、ボクっ娘、ドS
@@ -5127,6 +5326,7 @@ system_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラ
 system_karaoke014.arc,カスタムオーダーメイド3D2 メイドカラオケパック Special DIVA Edition
 system_karaoke015.arc,カラオケパーティSP『sweet sweet everyday』
 system_karaoke016.arc,メイドカラオケパック Special DIVA Edition Vol.02
+system_karaoke017.arc,カラオケパーティSP　メドレーカラオケ
 system_kissevent2018.arc,KISSイベント2018Marchアイテムセット
 system_kissnohi001.arc,キスの日プラグイン
 system_magazine003.arc,オフィシャルファンブック3
@@ -5197,6 +5397,7 @@ system_personal_om011.arc,カスタムオーダーメイド3D2キャラクター
 system_personal_om012.arc,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女
 system_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 system_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+system_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 system_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 system_selfishdestiny.arc,MML・Selfish Destiny ダンス
 system_smsp001.arc,カスタムオーダーメイド拘束台SP
@@ -5209,6 +5410,7 @@ system_studio002.arc,スタジオモード強化パック Vol.02
 system_studio003.arc,スタジオモード強化パック Vol.03
 system_studio004.arc,スタジオモード強化パック Vol.04
 system_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+system_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 system_textureset003.arc,未来形瞳&ポーズセット
 system_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 system_vp001.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
@@ -5235,6 +5437,7 @@ voice_adultplus_pink_add2.arc,アダルト機能強化パックPINK 妹、幼馴
 voice_april2020.arc,カスタムオーダーメイド3D2 A.K.パック体験版
 voice_av001.arc,カスタムオーダーメイド3D2 AVパック
 voice_av002.arc,カスタムオーダーメイド3D2 AVパックVol.02
+voice_binaural001.arc,カスタムオーダーメイド3D2　メイドのバイノーラルハーレムご奉仕ボイス
 voice_bugbug003.arc,夜伽クラス バグバグオーダーメイド
 voice_cafesp001.arc,エンパイアバラエティSP 2023 Summer
 voice_charaevent001.arc,イベント追加パックvol.1 キャラクターHイベントプラス
@@ -5273,8 +5476,10 @@ voice_charaevent_pure.arc,カスタムオーダーメイド3D2 警戒&恋人+状
 voice_christmas2024eve.arc,クリスマスカフェSP
 voice_cos020.arc,マンスリーパックVol.20 シチュエーションVIPプラス 年内最後の思い出
 voice_cos022.arc,マンスリーパックVol.22 レンタルメイドプラス 土豆瑠璃子(イベント)
-voice_coupling001.arc,ネーブルバニーセット＋セクシーサキュバスセット
-voice_coupling003.arc,カラフルバレンタイン2025&アクセサリーセット
+voice_coupling001.arc,カップリング&ハーレムパック『無垢×真面目』
+voice_coupling002.arc,カップリング&ハーレムパック『凜デレ×ツンデレ』
+voice_coupling003.arc,カップリング&ハーレムパック『文学少女×小悪魔』
+voice_coupling004.arc,カップリング&ハーレムパック『お姉ちゃん×妹』
 voice_cres2.arc,カスタムオーダーメイド3D2.5+X0 with KissCharacter EditSystem
 voice_crshop001.arc,カスタムオーダーメイド3D2 CRショップ ミニイベントセット Vol.1
 voice_crshop002.arc,カスタムオーダーメイド3D2 CRショップ ミニイベントセット Vol.2
@@ -5333,6 +5538,7 @@ voice_exm001.arc,カスタムオーダーメイド3D2専用プラグイン エ�
 voice_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 voice_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
 voice_franchise001_add.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
+voice_gekiama001.arc,カスタムオーダーメイド3D2 激甘ラブラブパック
 voice_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 voice_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 voice_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
@@ -5364,7 +5570,7 @@ voice_karaoke006.arc,カスタムオーダーメイド3D2カラオケパックVR
 voice_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 voice_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
 voice_karaoke008_add.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック　Ver.ボクっ娘、ドＳ
-voice_karaoke009.arc,クリスマスカラオケSP
+voice_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
 voice_karaoke010.arc,NEKO WORKs・ネコぱら・コラボコスチューム＆コラボカラオケダンスセット
 voice_karaoke013.arc,カスタムオーダーメイド3D2 エンパイアカラオケ歌合戦SP
 voice_karaoke_valentine2023.arc,カラオケパック　改革的ハートグラフィー【楽曲追加版】Ver.無垢、真面目、凜デレ、純真、ツンデレ、クーデレ、ヤンデレ、ドＳ（『文学少女～無愛想』購入者向け）
@@ -5496,6 +5702,7 @@ voice_personal_om012_gp001.arc,カスタムオーダーメイド3D2＋GP-01
 voice_personal_om012_gp001fb.arc,カスタムオーダーメイド3D2＋ GP-01Fb
 voice_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 voice_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
+voice_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 voice_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 voice_senkyo001.arc,1st only you ダンス＆イベント
 voice_smsp001.arc,カスタムオーダーメイド拘束台SP
@@ -5509,6 +5716,7 @@ voice_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Sum
 voice_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 voice_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 voice_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
+voice_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 voice_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 voice_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 voice_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
