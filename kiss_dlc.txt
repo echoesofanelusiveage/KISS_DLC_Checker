@@ -1,4 +1,4 @@
-#Ver.2025.03.26
+#Ver.2025.03.30
 #cm3d2plg
 bg_cd002.arc,グルーヴドレスセット
 bg_cr009.arc,仮装パーティセット
@@ -634,7 +634,7 @@ material_dlc400.arc,ニット＆サスペンダーセット
 material_dlc401.arc,ハイレグトレーニングセット
 material_dlc402.arc,エロティックレースランジェリーセット
 material_dlc403.arc,スポーティートレーニングウェアセット
-material_dlc409.arc,フラワーサマーワンピセット
+material_dlc409.arc,フラワーサマ－ワンピ
 material_dlc410.arc,ストリングス水着セット
 material_dlc411.arc,ハイレグフリル水着セット
 material_dlc413.arc,エレガントレースランジェリー
@@ -1359,7 +1359,7 @@ menu_dlc400.arc,ニット＆サスペンダーセット
 menu_dlc401.arc,ハイレグトレーニングセット
 menu_dlc402.arc,エロティックレースランジェリーセット
 menu_dlc403.arc,スポーティートレーニングウェアセット
-menu_dlc409.arc,フラワーサマーワンピセット
+menu_dlc409.arc,フラワーサマ－ワンピ
 menu_dlc410.arc,ストリングス水着セット
 menu_dlc411.arc,ハイレグフリル水着セット
 menu_dlc413.arc,エレガントレースランジェリー
@@ -1464,7 +1464,7 @@ menu_dlc536.arc,エレガンスナイトセット
 menu_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 menu_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 menu_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
-menu_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+menu_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 menu_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 menu_free002.arc,バレンタインチョコアダルト衣装無償DLC
 menu_free005.arc,兜＆紙兜セット
@@ -2082,7 +2082,7 @@ model_dlc400.arc,ニット＆サスペンダーセット
 model_dlc401.arc,ハイレグトレーニングセット
 model_dlc402.arc,エロティックレースランジェリーセット
 model_dlc403.arc,スポーティートレーニングウェアセット
-model_dlc409.arc,フラワーサマーワンピセット
+model_dlc409.arc,フラワーサマ－ワンピ
 model_dlc410.arc,ストリングス水着セット
 model_dlc411.arc,ハイレグフリル水着セット
 model_dlc413.arc,エレガントレースランジェリー
@@ -2911,7 +2911,7 @@ texture_dlc400.arc,ニット＆サスペンダーセット
 texture_dlc401.arc,ハイレグトレーニングセット
 texture_dlc402.arc,エロティックレースランジェリーセット
 texture_dlc403.arc,スポーティートレーニングウェアセット
-texture_dlc409.arc,フラワーサマーワンピセット
+texture_dlc409.arc,フラワーサマ－ワンピ
 texture_dlc410.arc,ストリングス水着セット
 texture_dlc411.arc,ハイレグフリル水着セット
 texture_dlc413.arc,エレガントレースランジェリー
@@ -3016,7 +3016,7 @@ texture_dlc536.arc,エレガンスナイトセット
 texture_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 texture_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 texture_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
-texture_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+texture_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 texture_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 texture_free002.arc,バレンタインチョコアダルト衣装無償DLC
 texture_free005.arc,兜＆紙兜セット
@@ -3291,6 +3291,7 @@ bg_sp004.arc,カスタムオーダーメイド3D2 シーズンパック 2019 spr
 bg_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summer
 bg_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 bg_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
+bg_stream001.arc,エンパイアメイドカフェ
 bg_studio002.arc,スタジオモード強化パック Vol.02
 bg_studio003.arc,スタジオモード強化パック Vol.03
 bg_studio004.arc,スタジオモード強化パック Vol.04
@@ -3475,7 +3476,7 @@ csv_eventplus_secretary.arc,夜伽&カラオケ付きメイド秘書らぶらぶ
 csv_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶらぶ同棲パック
 csv_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
 csv_exm001.arc,カスタムオーダーメイド3D2専用プラグイン エキストラメイド12名追加パック
-csv_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+csv_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 csv_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 csv_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
 csv_franchise001_add.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
@@ -3728,6 +3729,7 @@ csv_sp004.arc,カスタムオーダーメイド3D2 シーズンパック 2019 sp
 csv_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summer
 csv_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 csv_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
+csv_stream001.arc,エンパイアメイドカフェ
 csv_studio001.arc,スタジオモード強化パック
 csv_studio002.arc,スタジオモード強化パック Vol.02
 csv_studio003.arc,スタジオモード強化パック Vol.03
@@ -3820,7 +3822,7 @@ motion_cbl_eventplus_missy.arc,夜伽＆カラオケ付きお嬢様らぶらぶ�
 motion_cbl_eventplus_secretary.arc,夜伽&カラオケ付きメイド秘書らぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withセクレタリーメイド服
 motion_cbl_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶらぶ同棲パック
 motion_cbl_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
-motion_cbl_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+motion_cbl_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 motion_cbl_feswinter2022.arc,エンパイアフェスティバルパック 2022 winter
 motion_cbl_gekiama001.arc,カスタムオーダーメイド3D2　激甘ラブラブパック ACT2&ACT3購入者向け
 motion_cbl_karaoke004.arc,カスタムオーダーメイド3D2 カラオケパックVR VOL.2
@@ -3962,7 +3964,7 @@ motion_eventplus_missy.arc,夜伽＆カラオケ付きお嬢様らぶらぶ同�
 motion_eventplus_secretary.arc,夜伽&カラオケ付きメイド秘書らぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withセクレタリーメイド服
 motion_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶらぶ同棲パック
 motion_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
-motion_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+motion_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 motion_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 motion_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
 motion_gekiama001.arc,カスタムオーダーメイド3D2　激甘ラブラブパック ACT2&ACT3購入者向け
@@ -4076,6 +4078,7 @@ motion_senkyo001.arc,1st only you ダンス＆イベント
 motion_smsp001.arc,カスタムオーダーメイド拘束台SP
 motion_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 motion_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
+motion_stream001.arc,エンパイアメイドカフェ
 motion_studio001.arc,スタジオモード強化パック
 motion_studio002.arc,スタジオモード強化パック Vol.02
 motion_studio003.arc,スタジオモード強化パック Vol.03
@@ -4499,7 +4502,7 @@ parts_dlc403.arc,スポーティートレーニングウェアセット
 parts_dlc404.arc,パレオ水着セット
 parts_dlc405.arc,クリアワンピースセット
 parts_dlc408.arc,アレンジチアガールセット
-parts_dlc409.arc,フラワーサマーワンピセット
+parts_dlc409.arc,フラワーサマ－ワンピ
 parts_dlc410.arc,ストリングス水着セット
 parts_dlc411.arc,ハイレグフリル水着セット
 parts_dlc412.arc,オープンエロ下着
@@ -4624,7 +4627,7 @@ parts_dlcdenkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 parts_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
 parts_eventplus_ladylike.arc,夜伽＆カラオケ付きおしとやからぶらぶ同棲パック
-parts_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+parts_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 parts_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 parts_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
 parts_free002.arc,バレンタインチョコアダルト衣装無償DLC
@@ -4742,6 +4745,7 @@ parts_sp006cloth3.arc,和ノ喫茶制服セット
 parts_sp007cloth1.arc,館内着セット
 parts_sp007cloth2.arc,茶羽織セット
 parts_sp007cloth3.arc,ストール巻き和服セット
+parts_stream001.arc,エンパイアメイドカフェ
 parts_studio001.arc,スタジオモード強化パック
 parts_tanabata2022.arc,たなばたらんじぇりー無償DLC
 parts_tech003.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
@@ -4771,6 +4775,7 @@ parts_yomeidokanteidan_realguneset.arc,高価なエアーガンセット（リ�
 parts_yomeidokanteidan_superguneset.arc,高価なエアーガンセット（スーパー系）
 parts_yomeidokanteidan_swordset.arc,嫁イド鑑定団・名剣セット
 parts_yomeidokanteidan_tshirt.arc,鑑定団Ｔシャツ
+pre_sitataka.preset,エンパイアメイドカフェ
 script_2ndanniversary.arc,カスタムオーダーメイド3D2 2周年記念イベント
 script_3d21reserve2.arc,カスタムオーダーメイド3D2専用 プラグイン グレードアップ予約キャンペーン Vol.2
 script_acosh001.arc,カスタムオーダーメイド3D2 アダルトコスチュームセット+アダルトアイテム付きHイベント
@@ -5145,6 +5150,7 @@ script_sp004.arc,カスタムオーダーメイド3D2 シーズンパック 2019
 script_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summer
 script_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 script_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
+script_stream001.arc,エンパイアメイドカフェ
 script_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 script_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 script_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
@@ -5262,6 +5268,7 @@ sound_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 sound_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 sound_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
 sound_senkyo001.arc,1st only you ダンス＆イベント
+sound_stream001.arc,エンパイアメイドカフェ
 sound_wonderingbeads.arc,wondering beads ダンス
 sound_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 sound_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
@@ -5339,7 +5346,7 @@ system_eventplus_missy.arc,夜伽＆カラオケ付きお嬢様らぶらぶ同�
 system_eventplus_secretary.arc,夜伽&カラオケ付きメイド秘書らぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withセクレタリーメイド服
 system_eventplus_silent.arc,夜伽&カラオケ付き文学少女らぶらぶ同棲パック
 system_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲パック
-system_explus001.arc,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+system_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 system_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 system_franchise001.arc,事業拡大パック『ラブホテル』『ノーマル＆ハイポリボディ版』Ver.文学少女、小悪魔、おしとやか
 system_gekiama001.arc,カスタムオーダーメイド3D2　激甘ラブラブパック ACT2&ACT3購入者向け
@@ -5445,6 +5452,7 @@ system_sp001.arc,カスタムオーダーメイド3D2 シーズンパック 2018
 system_sp002.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Autumn
 system_sp003.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Winter
 system_sp004.arc,カスタムオーダーメイド3D2 シーズンパック 2019 spring
+system_stream001.arc,エンパイアメイドカフェ
 system_studio001.arc,スタジオモード強化パック
 system_studio002.arc,スタジオモード強化パック Vol.02
 system_studio003.arc,スタジオモード強化パック Vol.03
@@ -5758,6 +5766,7 @@ voice_sp004.arc,カスタムオーダーメイド3D2 シーズンパック 2019 
 voice_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summer
 voice_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 voice_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
+voice_stream001.arc,エンパイアメイドカフェ
 voice_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 voice_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 voice_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
@@ -5784,7 +5793,7 @@ voice_xmas2021present.arc,クリスマスアクセサリー＆イベントセッ
 parts_3d21reserve.aba,グレードアップ予約キャンペーンセットVol.1
 parts_3d21reserve_gp003.aba,グレードアップ予約キャンペーンセットVol.1
 parts_adultplus_hard.aba,アダルトビジュアル強化パック
-parts_bcc2_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_bcc2_gp003.aba,ニューメイドキャップ
 parts_cafesp001.aba,エンパイアバラエティSP 2023 Summer
 parts_cas008.aba,マリンセーラーセット
 parts_cas012.aba,アドベンチャーヘアーセット
@@ -5805,39 +5814,39 @@ parts_cas041.aba,サカゲセット
 parts_cas045.aba,ポンパドールヘアーセット
 parts_cas046.aba,スイングアップヘアーセット
 parts_cas047.aba,和風ポニーテールヘアーセット
-parts_cas059_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas060_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas061_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas070_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas071_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas072_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas081_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas082_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas083_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas089_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas090_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas091_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas094_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas095_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas096_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas097_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas098_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas102_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas103_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas104_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas105_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.37
-parts_cas108_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas109_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas110_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas114_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas115_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas116_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas120_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas121_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas122_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas126_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas127_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_cas128_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_cas059_gp003.aba,クールアシメヘアセット
+parts_cas060_gp003.aba,ネオ七三分けヘアセット
+parts_cas061_gp003.aba,ウェーブヘアセット
+parts_cas070_gp003.aba,リトルノーブルヘアセット
+parts_cas071_gp003.aba,かきあげヘアセット
+parts_cas072_gp003.aba,スリーサイドヘアセット
+parts_cas081_gp003.aba,オーバーメカクレセット
+parts_cas082_gp003.aba,ウエーブパーマセット
+parts_cas083_gp003.aba,ポンパアレンジセット
+parts_cas089_gp003.aba,ルーズセミロングヘアセット
+parts_cas090_gp003.aba,エアリーマッシュヘアセット
+parts_cas091_gp003.aba,ガーリッシュウェーブヘアセット
+parts_cas094_gp003.aba,長髪前分けセット
+parts_cas095_gp003.aba,おかっぱボブセット
+parts_cas096_gp003.aba,ジャギーベリーショートセット
+parts_cas097_gp003.aba,アグレッシブヘアセット
+parts_cas098_gp003.aba,ナチュラルセンターヘアセット
+parts_cas102_gp003.aba,サイドロングボブヘアセット
+parts_cas103_gp003.aba,サイドバックヘアセット
+parts_cas104_gp003.aba,斜めぱっつんヘアセット
+parts_cas105_gp003.aba,アーバンウェアセット
+parts_cas108_gp003.aba,サイドフローヘアセット
+parts_cas109_gp003.aba,パンクヴィジュアルヘアセット
+parts_cas110_gp003.aba,姫カットヘアセット
+parts_cas114_gp003.aba,ミニツーサイドアップヘアセット
+parts_cas115_gp003.aba,ハードカールフロント
+parts_cas116_gp003.aba,ストレイヘアセット
+parts_cas120_gp003.aba,ワイド＆ミディアムハーフアップヘアセット
+parts_cas121_gp003.aba,ヴァンガードヘアセット
+parts_cas122_gp003.aba,ラウンドツインテールヘアセット
+parts_cas126_gp003.aba,アグレッシブバングヘアセット
+parts_cas127_gp003.aba,センター分けパーマヘアセット
+parts_cas128_gp003.aba,シャープストレートヘアセット
 parts_charaevent_anesan.aba,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
 parts_charaevent_genki.aba,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
 parts_charaevent_pride.aba,カスタムオーダーメイド3D2 旅行Hイベント＆デートイベントパック 2021 Winter
@@ -5971,7 +5980,7 @@ parts_dlc308.aba,あいミス！R・プリシラセット
 parts_dlc309.aba,あいミス！R・コトセット
 parts_dlc318.aba,マリーさん・マリーさんセット
 parts_dlc326.aba,ぼく乳・諌見萌セット
-parts_dlc331_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_dlc331_gp003.aba,水着アクセサリー3種セット
 parts_dlc344.aba,あいミス！R・ラウラセット
 parts_dlc345.aba,あいミス！R・ラディスセット
 parts_dlc346.aba,あいミス！R・リディアセット
@@ -5989,32 +5998,35 @@ parts_dlc375.aba,ガラス姫・アンリセット
 parts_dlc376.aba,ガラス姫・ベルナデッドセット
 parts_dlc377.aba,ガラス姫・織姫セット
 parts_dlc378.aba,ガラス姫・奈緒美セット
-parts_dlc390_gp003.aba,ひとみコスチュームセット
-parts_dlc391_gp003.aba,ひとみコスチュームセット
-parts_dlc392_gp003.aba,ひとみコスチュームセット
-parts_dlc394_gp003.aba,カスタムオーダーメイド3D2 コスチュームセットVol.24
-parts_dlc395_gp003.aba,カスタムオーダーメイド3D2 コスチュームセットVol.24
-parts_dlc396_gp003.aba,カスタムオーダーメイド3D2 コスチュームセットVol.24
-parts_dlc397_gp003.aba,カスタムオーダーメイド3D2 コスチュームセットVol.24
+parts_dlc390_gp003.aba,ひとみヘアセット
+parts_dlc391_gp003.aba,アシンメトリーフラワーランジェリーセット
+parts_dlc392_gp003.aba,セクシーダンスドレスセット
+parts_dlc394_gp003.aba,ノースリーブセーラーワンピセット
+parts_dlc395_gp003.aba,ポップパーカーセット
+parts_dlc396_gp003.aba,キュートシースルーショルダーセット
+parts_dlc397_gp003.aba,フリルオフショルダーセット
 parts_dlc400_gp003.aba,ニット＆サスペンダーセット
 parts_dlc401_gp003.aba,ハイレグトレーニングセット
 parts_dlc402_gp003.aba,エロティックレースランジェリーセット
 parts_dlc403_gp003.aba,スポーティートレーニングウェアセット
-parts_dlc404_gp003.aba,コスチュームセット Vol.28
-parts_dlc405_gp003.aba,コスチュームセット Vol.28
-parts_dlc408_gp003.aba,コスチュームセット Vol.28
-parts_dlc412_gp003.aba,コスチュームセット Vol.28
-parts_dlc413_gp003.aba,カスタムオーダーメイド3D2 AVパックVol.02 コスチュームセット
-parts_dlc414_gp003.aba,カスタムオーダーメイド3D2 AVパックVol.02 コスチュームセット
-parts_dlc415_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc416_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc417_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc418_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc419_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc420_gp003.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_dlc421_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.29
-parts_dlc422_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.29
-parts_dlc423_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.29
+parts_dlc404_gp003.aba,パレオ水着セット
+parts_dlc405_gp003.aba,クリアワンピースセット
+parts_dlc406_gp003.aba,フラワーサマ－ワンピ
+parts_dlc408_gp003.aba,アレンジチアガールセット
+parts_dlc410_gp003.aba,ストリングス水着セット
+parts_dlc411_gp003.aba,ハイレグフリル水着セット
+parts_dlc412_gp003.aba,オープンエロ下着
+parts_dlc413_gp003.aba,エレガントレースランジェリー
+parts_dlc414_gp003.aba,センターシースルードレスセット
+parts_dlc415_gp003.aba,ディグニファイヘアーセット+アクセサリーセット
+parts_dlc416_gp003.aba,ピュアハートショートヘアーセット+アクセサリーセット
+parts_dlc417_gp003.aba,マイティツインテールヘアーセット+アクセサリーセット
+parts_dlc418_gp003.aba,クールビューティーヘアーセット+アクセサリーセット
+parts_dlc419_gp003.aba,イノセントヘアーセット+アクセサリーセット
+parts_dlc420_gp003.aba,トゥルーヘアーセット+アクセサリーセット
+parts_dlc421_gp003.aba,へそ見せクロス水着セット
+parts_dlc422_gp003.aba,セクシーサロペットセット
+parts_dlc423_gp003.aba,前結びシャツ＆ビキニセット
 parts_dlc424_gp003.aba,縁日浴衣セット
 parts_dlc425_gp003.aba,シースルー＆ダメージショートパンツセット
 parts_dlc426_gp003.aba,シックパールランジェリーセット
@@ -6022,56 +6034,56 @@ parts_dlc427_gp003.aba,プラウドレースランジェリーセット
 parts_dlc428_gp003.aba,レザーハーネスランジェリーセット
 parts_dlc429_gp003.aba,アーティファクトウィッチセット
 parts_dlc430_gp003.aba,セクシーパンプキンセット
-parts_dlc431_gp003.aba,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
-parts_dlc432_gp003.aba,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
-parts_dlc433_gp003.aba,カスタムオーダーメイド3D2 ファッション小物セット＆アクセサリーセット
+parts_dlc431_gp003.aba,メイジヘアセット
+parts_dlc432_gp003.aba,ウィッチヘアセット（コウモリヘアアクセサリーつき）
+parts_dlc433_gp003.aba,ファッション小物セット＆アクセサリーセット
 parts_dlc434_gp003.aba,モデスティスタイルメイド服
 parts_dlc435_gp003.aba,フラワーメイド服＆ランジェリーセット
 parts_dlc436_gp003.aba,ネコサンタセット
-parts_dlc436acc_gp003.aba,カスタムオーダーメイド3D2　クリスマスアクセサリー＆イベントセット
+parts_dlc436acc_gp003.aba,クリスマスアクセサリー＆イベントセット
 parts_dlc438_gp003.aba,ウィンターニット＆ワンピセット
-parts_dlc439_gp003.aba,カスタムオーダーメイド3D2　クリスマスアクセサリー＆イベントセット
+parts_dlc439_gp003.aba,クリスマスアクセサリー＆イベントセット
 parts_dlc440_gp003.aba,桜花歌舞セット
 parts_dlc441_gp003.aba,和風お団子サイドポニーセット
 parts_dlc442_gp003.aba,未来系ストリーマーセット
-parts_dlc443_gp003.aba,スーパーウェーブセット
-parts_dlc444_gp003.aba,戯画・アイキス3・コスチューム＆ダンス フルセット
-parts_dlc445_gp003.aba,アイキス3·花梨制服セット
-parts_dlc446_gp003.aba,アイキス3・池永アヴローラ髪
-parts_dlc447_gp003.aba,アイキス3·アヴ口ーラのセット
-parts_dlc450_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きツンデレらぶらぶ同棲パック『ハイポリボディ版』withセクシーメイド服
+parts_dlc443_gp003.aba,スーパーウェーヴヘアセット
+parts_dlc444_gp003.aba,アイキス3・真庭花梨なりきりセット
+parts_dlc445_gp003.aba,アイキス3・花梨制服セット
+parts_dlc446_gp003.aba,アイキス3・池永アヴローラなりきりセット
+parts_dlc447_gp003.aba,アイキス3・アヴローラ制服セット
+parts_dlc450_gp003.aba,オフショルダーガーリーセット
 parts_dlc451_gp003.aba,アシンメトリークールセット
-parts_dlc452_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.36
-parts_dlc453_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きツンデレらぶらぶ同棲パック『ハイポリボディ版』withセクシーメイド服
-parts_dlc455_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.36
-parts_dlc456_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.37
-parts_dlc457_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.37
+parts_dlc452_gp003.aba,ゆるふわサイドテールヘアセット
+parts_dlc453_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きツンデレらぶらぶ同棲パックwithセクシーメイド服
+parts_dlc455_gp003.aba,肩乗せゆるふわサイドヘアセット
+parts_dlc456_gp003.aba,ガーリーセミロングヘアセット
+parts_dlc457_gp003.aba,撫子乙女スタイルヘアセット
 parts_dlc459_gp003.aba,フレッシュサマーウェアセット
-parts_dlc460_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.38
+parts_dlc460_gp003.aba,フレッシュポニーヘアセット
 parts_dlc463_gp003.aba,エレガントアレンジビキニセット
-parts_dlc464_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.38
+parts_dlc464_gp003.aba,インフレートツインヘアセット
 parts_dlc466_gp003.aba,ノーティーガーリーセット
 parts_dlc467_gp003.aba,オーバーシルエットセット
-parts_dlc468_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.40
+parts_dlc468_gp003.aba,ミニフレンチブレイドヘアセット
 parts_dlc469_gp003.aba,ノベルゴシックセット
 parts_dlc470_gp003.aba,セクシーサスペンダーセット
-parts_dlc471_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.41
-parts_dlc472_gp003.aba,カスタムオーダーメイド3D2 コスチュームセット Vol.41
+parts_dlc471_gp003.aba,巻きツインテールヘアセット
+parts_dlc472_gp003.aba,ハロウィンアクセサリーセット
 parts_dlc473_gp003.aba,プレッピードレスセット
-parts_dlc474_gp003.aba,性癖開発エロメイド服
+parts_dlc474_gp003.aba,調教用エロメイド服
 parts_dlc475_gp003.aba,グラツィアレディセット
 parts_dlc477_gp003.aba,ジュブナイルパーカーセット
 parts_dlc478_gp003.aba,ゴージャスレディセット
-parts_dlc479_gp003.aba,タキシードバニー&エレガントバニー　Wバニーアダルトセット
+parts_dlc479_gp003.aba,タキシードバニーセット
 parts_dlc480_gp003.aba,秘里ノ装束セット
-parts_dlc481_gp003.aba,ブチアゲギャル制服セット＆アミーメイド服
-parts_dlc482_gp003.aba,セクシーボーイッシュセット＆ボクっ娘タトゥー〜
-parts_dlc483_gp003.aba,サイバーカワイイセット/ルシュクルメイド服
+parts_dlc481_gp003.aba,ブチアゲギャル制服セット
+parts_dlc482_gp003.aba,セクシーボーイッシュセット
+parts_dlc483_gp003.aba,サイバーカワイイセット
 parts_dlc484_gp003.aba,メンヘラぴえん系セット
 parts_dlc485_gp003.aba,コンバットカジュアルセット
-parts_dlc486_gp003.aba,シュガーフリルセット＆プリティメイド服＆お姉ちゃんタトゥー
+parts_dlc486_gp003.aba,シュガーフリルセット
 parts_dlc487_gp003.aba,カームカジュアルセット
-parts_dlc488_gp003.aba,アートレスフリルセット＋純真タトゥー
+parts_dlc488_gp003.aba,アートレスフリルセット
 parts_dlc489_gp003.aba,アサルトガーリーセット
 parts_dlc490_gp003.aba,レースアップレザーセット
 parts_dlc491_gp003.aba,ストリートファッションセット
@@ -6080,7 +6092,7 @@ parts_dlc493_gp003.aba,レディローズドレスセット
 parts_dlc494_gp003.aba,エンパイアエレガンスワンピースセット
 parts_dlc497_gp003.aba,アクティブガーリーセット
 parts_dlc498_gp003.aba,サロペットスタイルコーデセット
-parts_dlc499_gp003.aba,シンプル学生服セット
+parts_dlc499_gp003.aba,コスチュームセット Vol.45　『制服SP』
 parts_dlc500_gp003.aba,ブラウス＆スリットセット
 parts_dlc501_gp003.aba,サイバーガーリッシュセット
 parts_dlc503_gp003.aba,ホログラカジュアルセット
@@ -6095,7 +6107,7 @@ parts_dlc511_gp003.aba,エージェントセット
 parts_dlc512_gp003.aba,ウィンターアグレッシブセット
 parts_dlc513_gp003.aba,リクルートスーツセット
 parts_dlc514_gp003.aba,キュートメイド服
-parts_dlc515_gp003.aba,キュートスプリングセット『ノーマル＆ハイポリボディ版』
+parts_dlc515_gp003.aba,キュートスプリングセット
 parts_dlc516_gp003.aba,コスチュームセット Vol.56 『制服SP二学期』
 parts_dlc518_gp003.aba,フレッシュキュート水着セット
 parts_dlc519_gp003.aba,ノースリーブサマーガールセット
@@ -6114,11 +6126,11 @@ parts_dlc531_gp003.aba,流麗艶花セット
 parts_dlc532_gp003.aba,ネコミミ和風メイド服
 parts_dlc533_gp003.aba,ネコミミニットウィンターセット
 parts_dlc534_gp003.aba,サンタリボンセット
-parts_dlc535_gp003.aba,コスチュームセット Vol.67
-parts_dlc536_gp003.aba,コスチュームセット Vol.67
+parts_dlc535_gp003.aba,ファンタジープリンセスセット
+parts_dlc536_gp003.aba,エレガンスナイトセット
 parts_dlcdenkigai2015s004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_dlcfacetex001.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
-parts_explus001.aba,ド変態ドM&腹黒メイド服『ハイポリボディ版』+EXキャラビジュアル強化パック
+parts_explus001.aba,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 parts_feswinter2022.aba,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
 parts_free005_gp003.aba,兜＆紙兜セット
 parts_gp001fb.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
@@ -6129,7 +6141,7 @@ parts_gp01set.aba,カスタムオーダーメイド3D2 互換アイテムセッ�
 parts_gp02set.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_kiss25th.aba,KISS25周年記念Tシャツ
 parts_kissevent2018.aba,KISSイベント2018Marchアイテムセット
-parts_kissevent2018_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_kissevent2018_gp003.aba,KISSイベント2018Marchアイテムセット
 parts_kissevent2018_mask_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_kissevent2018_penlight_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_magazine002.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
@@ -6145,41 +6157,41 @@ parts_oldplus005hair1.aba,インサイドフロントヘアーセット
 parts_oldplus005hair2.aba,インサイドコモンヘアーセット
 parts_oldplus007hair1.aba,フレッシュヘアーセット
 parts_oldplus007hair2.aba,メインクーンヘアーセット
-parts_oldplus008hair1_gp003.aba,カスタムオーダーメイド3D2＋GP-01Fb+髪型追加フルパック feat.無愛想
-parts_oldplus008hair2_gp003.aba,カスタムオーダーメイド3D2＋GP-01Fb+髪型追加フルパック feat.無愛想
+parts_oldplus008hair1_gp003.aba,ブラントヘアセット
+parts_oldplus008hair2_gp003.aba,ハイドヘアセット
 parts_oldplus009cloth1_gp003.aba,カスタムオーダーメイド3D2＋GP-01+髪型＆私服追加フルパック feat.無愛想
-parts_oldplus009hair1_gp003.aba,カスタムオーダーメイド3D2＋GP-01+髪型＆私服追加フルパック feat.無愛想
-parts_oldplus009hair2_gp003.aba,カスタムオーダーメイド3D2＋GP-01+髪型＆私服追加フルパック feat.無愛想
-parts_oldplus010hair1_gp003.aba,カスタムオーダーメイド3D2 GP-01 + 髪型追加フルパック feat.お嬢様
-parts_oldplus010hair2_gp003.aba,カスタムオーダーメイド3D2 GP-01 + 髪型追加フルパック feat.お嬢様
+parts_oldplus009hair1_gp003.aba,エアリーショートボブヘアセット
+parts_oldplus009hair2_gp003.aba,クワイエットヘアセット
+parts_oldplus010hair1_gp003.aba,プレッピーヘアセット
+parts_oldplus010hair2_gp003.aba,リファインドヘアセット
 parts_oldplus011cloth_gp003.aba,クイーンカジュアルセット
-parts_oldplus_sadist_cloth1_gp003.aba,ティージングガールセットwithフォルテメイド服
+parts_oldplus_sadist_cloth1_gp003.aba,夜伽＆カラオケ付きドSらぶらぶ同棲パック『ノーマル＆ハイポリボディ版』withフォルテメイド服
 parts_ordermade001.aba,病的な程一途な大和撫子-発売記念セット
 parts_ordermade001_gp003.aba,移籍パックvol.1 病的な程一途な大和撫子
 parts_ordermade002.aba,スタイリッシュバトラーメイド服
 parts_ordermade002_gp003.aba,セクシーボーイッシュセット＆ボクっ娘タトゥー〜
-parts_personal002.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_personal002.aba,シュガーフリルセット＆プリティメイド服＆お姉ちゃんタトゥー
 parts_personal002_gp003.aba,シュガーフリルセット＆プリティメイド服＆お姉ちゃんタトゥー
-parts_personal004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_personal004.aba,ティージングガールセットwithフォルテメイド服
 parts_personal004_gp003.aba,ティージングガールセットwithフォルテメイド服
 parts_personal_om001.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き文学少女らぶらぶ同棲パック with レティセンスメイド服
 parts_personal_om002.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き小悪魔らぶらぶ同棲パックwithプチデビルメイド服
 parts_personal_om003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きおしとやからぶらぶ同棲パック with レディライクメイド服
-parts_personal_om003_gp003.aba,カスタムオーダーメイド3D2 キャラクターパック 色気のあるおしとやかなお姉さん
+parts_personal_om003_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きおしとやからぶらぶ同棲パック with レディライクメイド服
 parts_personal_om004.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きメイド秘書らぶらぶ同棲パック with セクレタリーメイド服
-parts_personal_om004_gp003.aba,秘里ノ装束セット
+parts_personal_om004_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きメイド秘書らぶらぶ同棲パック with セクレタリーメイド服
 parts_personal_om005.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き妹らぶらぶ同棲パック with ルシュクルメイド服
-parts_personal_om005_gp003.aba,サイバーカワイイセット/ルシュクルメイド服
+parts_personal_om005_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き妹らぶらぶ同棲パック with ルシュクルメイド服
 parts_personal_om006.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き無愛想らぶらぶ同棲パック with エミアブルメイド服
-parts_personal_om006_gp003.aba,ノーティーガーリーセット＋エミアブルメイド服
+parts_personal_om006_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付き無愛想らぶらぶ同棲パック with エミアブルメイド服
 parts_personal_om007.aba,カスタムオーダーメイド3D2＋GP-01Fb&GP-02対応私服追加フルパック feat.お嬢様 withエミネンスメイド服
-parts_personal_om007_gp003.aba,プレッピードレスセット＆エミネンスメイド服
+parts_personal_om007_gp003.aba,カスタムオーダーメイド3D2＋GP-01Fb&GP-02対応私服追加フルパック feat.お嬢様 withエミネンスメイド服
 parts_personal_om008.aba,カスタムオーダーメイド3D2＋GP-01Fb&GP-02対応私服追加フルパック feat.幼馴染 withアミーメイド服
-parts_personal_om008_gp003.aba,ブチアゲギャル制服セット＆アミーメイド服
+parts_personal_om008_gp003.aba,カスタムオーダーメイド3D2＋GP-01Fb&GP-02対応私服追加フルパック feat.幼馴染 withアミーメイド服
 parts_personal_om009.aba,デザイアメイド服セット
-parts_personal_om009_gp003.aba,カスタムオーダーメイド3D2 キャラクターパックEX ド変態ドM
+parts_personal_om009_gp003.aba,デザイアメイド服セット
 parts_personal_om010.aba,シャローメイド服セット
-parts_personal_om010_gp003.aba,カスタムオーダーメイド3D2 キャラクターパックEX 腹黒
+parts_personal_om010_gp003.aba,シャローメイド服セット
 parts_personal_om011_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん
 parts_personal_om011hair_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん 髪型
 parts_personal_om011underwear_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん 下着
@@ -6187,18 +6199,19 @@ parts_personal_om012_gp003.aba,カスタムオーダーメイド3D2キャラク�
 parts_personal_om012hair_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女 髪型
 parts_personal_om012underwear_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 生真面目で甘え下手な淑女 下着
 parts_personal_om013.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
-parts_personal_om013cloth_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
-parts_personal_om013hair1_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
-parts_personal_om013underwear_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
+parts_personal_om013cloth_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル
+parts_personal_om013hair1_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル
+parts_personal_om013underwear_gp003.aba,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル
 parts_pp002.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_pp003p.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_rcm001.aba,エンパイアレガシーメイド服セット
 parts_rcm002.aba,エンパイアレガシーメイド服セット
 parts_rcm003.aba,エンパイアレガシーメイド服セット
-parts_shop011_gp003.aba,カスタムオーダーメイド3D2専用プラグイン フラウメイド服
-parts_shop016_gp003.aba,カスタムオーダーメイド3D2専用プラグイン ずきんむすめセット
+parts_shop011_gp003.aba,フラウメイド服
+parts_shop016_gp003.aba,ずきんむすめセット
 parts_sp001.aba,カスタムオーダーメイド3D2 シーズンパック 2018 Summer
 parts_sp004.aba,カスタムオーダーメイド3D2 シーズンパック 2019 spring
+parts_stream001.aba,エンパイアメイドカフェ
 parts_tech003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_tech004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_textureset001.aba,瞳&男性ボディパーツ強化セット
@@ -6206,7 +6219,7 @@ parts_valentine2025_gp003.aba,カラフルバレンタイン2025&アクセサリ
 parts_vp001.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_vp001_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_vp001_vercm3d2.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_x001_gp003.aba,カスタムオーダーメイド3D2&2.5＋X1 
+parts_x001_gp003.aba,カスタムオーダーメイド3D2&2.5＋X1
 parts_x001fix_gp003.aba,カスタムオーダーメイド3D2&2.5＋X1＋
 parts_x001kai_gp003.aba,カスタムオーダーメイド3D2&2.5＋X1改
 parts_x001plus_gp003.aba,カスタムオーダーメイド3D2&2.5＋X1＋
@@ -6216,9 +6229,9 @@ parts_yomeidogp2018_tiara3_gp003.aba,カスタムオーダーメイド3D2 互換
 parts_yomeidogp2020teadou_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_yomeidogp2020teagin_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_yomeidogp2020teakin_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_accset_b_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_accset_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_bladeset_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_realguneset_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_superguneset_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
-parts_yomeidokanteidan_swordset_gp003.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
+parts_yomeidokanteidan_accset_b_gp003.aba,高価な裏アクセサリーセット
+parts_yomeidokanteidan_accset_gp003.aba,高価なアクセサリーセット 宝石箱
+parts_yomeidokanteidan_bladeset_gp003.aba,嫁イド鑑定団・名刀セット
+parts_yomeidokanteidan_realguneset_gp003.aba,高価なエアーガンセット（リアル系）
+parts_yomeidokanteidan_superguneset_gp003.aba,高価なエアーガンセット（スーパー系）
+parts_yomeidokanteidan_swordset_gp003.aba,嫁イド鑑定団・名剣セット
