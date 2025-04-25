@@ -1,4 +1,4 @@
-#Ver.2025.03.30
+#Ver.2025.04.25
 #cm3d2plg
 bg_cd002.arc,グルーヴドレスセット
 bg_cr009.arc,仮装パーティセット
@@ -736,6 +736,8 @@ material_dlc533.arc,ネコミミニットウィンターセット
 material_dlc534.arc,サンタリボンセット
 material_dlc535.arc,ファンタジープリンセスセット
 material_dlc536.arc,エレガンスナイトセット
+material_dlc537.arc,チル・キャリアガールセット
+material_dlc538.arc,ニンブルパーカーセット
 material_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 material_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
 material_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
@@ -1461,6 +1463,8 @@ menu_dlc533.arc,ネコミミニットウィンターセット
 menu_dlc534.arc,サンタリボンセット
 menu_dlc535.arc,ファンタジープリンセスセット
 menu_dlc536.arc,エレガンスナイトセット
+menu_dlc537.arc,チル・キャリアガールセット
+menu_dlc538.arc,ニンブルパーカーセット
 menu_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 menu_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 menu_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -2184,6 +2188,8 @@ model_dlc533.arc,ネコミミニットウィンターセット
 model_dlc534.arc,サンタリボンセット
 model_dlc535.arc,ファンタジープリンセスセット
 model_dlc536.arc,エレガンスナイトセット
+model_dlc537.arc,チル・キャリアガールセット
+model_dlc538.arc,ニンブルパーカーセット
 model_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 model_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
 model_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
@@ -3013,6 +3019,8 @@ texture_dlc533.arc,ネコミミニットウィンターセット
 texture_dlc534.arc,サンタリボンセット
 texture_dlc535.arc,ファンタジープリンセスセット
 texture_dlc536.arc,エレガンスナイトセット
+texture_dlc537.arc,チル・キャリアガールセット
+texture_dlc538.arc,ニンブルパーカーセット
 texture_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 texture_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 texture_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -3238,6 +3246,7 @@ bg_gp002p1.arc,カスタムオーダーメイド3D2専用プラグイン GP02 �
 bg_gp002p2.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第2弾
 bg_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 bg_halloween2021.arc,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
+bg_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 bg_karaoke001.arc,カラオケパックVR VOL.1
 bg_karaoke002.arc,カラオケパックVR VOL.2
 bg_karaoke003.arc,カスタムオーダーメイド3D2 カラオケパックVR
@@ -3506,6 +3515,7 @@ csv_gp002wedd.arc,カスタムオーダーメイド3D2専用プラグイン GP02
 csv_gp002yandere.arc,カスタムオーダーメイド3D2 +GP-02対応パックFeat.ヤンデレ
 csv_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 csv_halloween2021.arc,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
+csv_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 csv_karaoke.arc,クリスマスカラオケSP
 csv_karaoke001.arc,カラオケパックVR VOL.1
 csv_karaoke002.arc,カラオケパックVR VOL.2
@@ -3739,6 +3749,7 @@ csv_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.
 csv_textureset003.arc,未来形瞳&ポーズセット
 csv_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
 csv_trio002.arc,トリオ&ハーレムパック『文学少女×小悪魔×妹』
+csv_trioex.arc,カスタムオーダーメイド3D2 EXメイドトリオ『ド変態ドM x 腹黒 x ギャル』ハーレム&アダルト機能対応パック
 csv_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 csv_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 csv_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -3825,6 +3836,7 @@ motion_cbl_eventplus_sister.arc,夜伽＆カラオケ付き妹らぶらぶ同棲
 motion_cbl_explus001.arc,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
 motion_cbl_feswinter2022.arc,エンパイアフェスティバルパック 2022 winter
 motion_cbl_gekiama001.arc,カスタムオーダーメイド3D2　激甘ラブラブパック ACT2&ACT3購入者向け
+motion_cbl_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 motion_cbl_karaoke004.arc,カスタムオーダーメイド3D2 カラオケパックVR VOL.2
 motion_cbl_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 motion_cbl_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
@@ -3977,6 +3989,7 @@ motion_gp002p2.arc,カスタムオーダーメイド3D2専用プラグイン GP0
 motion_gp002p3.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第3弾
 motion_gp002p5.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第5弾
 motion_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
+motion_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 motion_karaoke001.arc,カラオケパックVR VOL.1
 motion_karaoke002.arc,カラオケパックVR VOL.2
 motion_karaoke003.arc,カスタムオーダーメイド3D2 カラオケパックVR
@@ -4623,6 +4636,8 @@ parts_dlc533.arc,ネコミミニットウィンターセット
 parts_dlc534.arc,サンタリボンセット
 parts_dlc535.arc,ファンタジープリンセスセット
 parts_dlc536.arc,エレガンスナイトセット
+parts_dlc537.arc,チル・キャリアガールセット
+parts_dlc538.arc,ニンブルパーカーセット
 parts_dlcdenkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 parts_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -4637,6 +4652,7 @@ parts_gp001.arc,カスタムオーダーメイド3D2専用プラグイン GP01
 parts_gp001fb.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
 parts_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
+parts_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 parts_karaoke001.arc,カラオケパックVR VOL.1
 parts_karaoke002.arc,カラオケパックVR VOL.2
 parts_karaoke003.arc,カスタムオーダーメイド3D2 カラオケパックVR
@@ -5004,6 +5020,7 @@ script_gp002p5.arc,カスタムオーダーメイド3D2専用プラグイン GP0
 script_gp002wedd.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第6弾
 script_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 script_halloween2021.arc,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
+script_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 script_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 script_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
 script_karaoke009.arc,カスタムオーダーメイド3D2　クリスマスカラオケSP
@@ -5155,6 +5172,7 @@ script_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 script_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 script_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
 script_trio002.arc,トリオ&ハーレムパック『文学少女×小悪魔×妹』
+script_trioex.arc,カスタムオーダーメイド3D2 EXメイドトリオ『ド変態ドM x 腹黒 x ギャル』ハーレム&アダルト機能対応パック
 script_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 script_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 script_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -5211,6 +5229,7 @@ sound_gp002.arc,カスタムオーダーメイド3D2専用プラグイン GP02
 sound_gp002p1.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第1弾
 sound_gp002p3.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第3弾
 sound_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
+sound_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 sound_karaoke001.arc,カラオケパックVR VOL.1
 sound_karaoke002.arc,カラオケパックVR VOL.2
 sound_karaoke003.arc,カスタムオーダーメイド3D2 カラオケパックVR
@@ -5273,6 +5292,7 @@ sound_wonderingbeads.arc,wondering beads ダンス
 sound_x001.arc,カスタムオーダーメイド3D2&2.5＋X1
 sound_x001plus.arc,カスタムオーダーメイド3D2&2.5＋X1＋
 sound_xmas2021event2.arc,クリスマスカラオケSP
+SUH_K.ine,カスタムオーダーメイド3D2 お花見カラオケデートSP
 system.arc,system Japanese version
 system2.arc,system2 Japanese version
 system_3d21reserve.arc,グレードアップ予約キャンペーンセットVol.1
@@ -5358,6 +5378,7 @@ system_gp002p2.arc,カスタムオーダーメイド3D2専用プラグイン GP0
 system_gp002p5.arc,カスタムオーダーメイド3D2専用プラグイン GP02 第5弾
 system_gp003.arc,CR Edit System Data Link
 system_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
+system_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 system_karaoke004yandere.arc,カラオケパック　ヤンデレカラオケSP
 system_karaoke007.arc,カスタムオーダーメイド3D2 カラオケWデートパック
 system_karaoke008.arc,カスタムオーダーメイド3D2 カラオケ＆カラオケ夜伽パック
@@ -5611,6 +5632,7 @@ voice_gp002wedd.arc,カスタムオーダーメイド3D2専用プラグイン GP
 voice_gp002yandere.arc,カスタムオーダーメイド3D2 +GP-02対応パックFeat.ヤンデレ
 voice_gp003d.arc,CUSTOM OREDER MAID 3D2&2.5＋ GP-03
 voice_halloween2021.arc,カスタムオーダーメイドコスチュームセット ハロウィンパーティSP
+voice_hanami001.arc,カスタムオーダーメイド3D2 お花見カラオケデートSP
 voice_karaoke001.arc,カラオケパックVR VOL.1
 voice_karaoke002.arc,カラオケパックVR VOL.2
 voice_karaoke003.arc,カスタムオーダーメイド3D2 カラオケパックVR
@@ -5771,6 +5793,7 @@ voice_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 voice_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 voice_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
 voice_trio002.arc,トリオ&ハーレムパック『文学少女×小悪魔×妹』
+voice_trioex.arc,カスタムオーダーメイド3D2 EXメイドトリオ『ド変態ドM x 腹黒 x ギャル』ハーレム&アダルト機能対応パック
 voice_valentine2021.arc,カスタムオーダーメイド3D2 コスチュームセット Vol.18 バレンタインSP
 voice_valentine2024.arc,ハッピーバレンタイン2024&アクセサリーセット
 voice_valentine2025.arc,カラフルバレンタイン2025&アクセサリーセット
@@ -6055,11 +6078,14 @@ parts_dlc450_gp003.aba,オフショルダーガーリーセット
 parts_dlc451_gp003.aba,アシンメトリークールセット
 parts_dlc452_gp003.aba,ゆるふわサイドテールヘアセット
 parts_dlc453_gp003.aba,カスタムオーダーメイド3D2 夜伽＆カラオケ付きツンデレらぶらぶ同棲パックwithセクシーメイド服
+parts_dlc454_gp003.aba,クールモダンセット
 parts_dlc455_gp003.aba,肩乗せゆるふわサイドヘアセット
 parts_dlc456_gp003.aba,ガーリーセミロングヘアセット
 parts_dlc457_gp003.aba,撫子乙女スタイルヘアセット
+parts_dlc458_gp003.aba,エレガンスメイド服
 parts_dlc459_gp003.aba,フレッシュサマーウェアセット
 parts_dlc460_gp003.aba,フレッシュポニーヘアセット
+parts_dlc462_gp003.aba,小悪魔ジャンパーセット
 parts_dlc463_gp003.aba,エレガントアレンジビキニセット
 parts_dlc464_gp003.aba,インフレートツインヘアセット
 parts_dlc466_gp003.aba,ノーティーガーリーセット
@@ -6128,6 +6154,8 @@ parts_dlc533_gp003.aba,ネコミミニットウィンターセット
 parts_dlc534_gp003.aba,サンタリボンセット
 parts_dlc535_gp003.aba,ファンタジープリンセスセット
 parts_dlc536_gp003.aba,エレガンスナイトセット
+parts_dlc537_gp003.aba,チル・キャリアガールセット
+parts_dlc538_gp003.aba,ニンブルパーカーセット
 parts_dlcdenkigai2015s004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_dlcfacetex001.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_explus001.aba,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
@@ -6192,6 +6220,7 @@ parts_personal_om009.aba,デザイアメイド服セット
 parts_personal_om009_gp003.aba,デザイアメイド服セット
 parts_personal_om010.aba,シャローメイド服セット
 parts_personal_om010_gp003.aba,シャローメイド服セット
+parts_personal_om010underwear_gp003.aba,シャローアンダーウェア
 parts_personal_om011_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん
 parts_personal_om011hair_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん 髪型
 parts_personal_om011underwear_gp003.aba,カスタムオーダーメイド3D2キャラクターパック 気さくでちょっとエッチなお姉さん 下着
