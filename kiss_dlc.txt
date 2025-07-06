@@ -1,4 +1,4 @@
-#Ver.2025.05.25
+#Ver.2025.07.06
 #cm3d2plg
 bg_cd002.arc,グルーヴドレスセット
 bg_cr009.arc,仮装パーティセット
@@ -740,6 +740,8 @@ material_dlc537.arc,チル・キャリアガールセット
 material_dlc538.arc,ニンブルパーカーセット
 material_dlc540.arc,スウィートフラワーメイド服
 material_dlc541.arc,セデュースキュートメイド服
+material_dlc542.arc,サマートラベルワンピースセット
+material_dlc543.arc,カントリーオーバーオールセット
 material_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 material_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
 material_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
@@ -1469,6 +1471,8 @@ menu_dlc537.arc,チル・キャリアガールセット
 menu_dlc538.arc,ニンブルパーカーセット
 menu_dlc540.arc,スウィートフラワーメイド服
 menu_dlc541.arc,セデュースキュートメイド服
+menu_dlc542.arc,サマートラベルワンピースセット
+menu_dlc543.arc,カントリーオーバーオールセット
 menu_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 menu_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 menu_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -2196,6 +2200,8 @@ model_dlc537.arc,チル・キャリアガールセット
 model_dlc538.arc,ニンブルパーカーセット
 model_dlc540.arc,スウィートフラワーメイド服
 model_dlc541.arc,セデュースキュートメイド服
+model_dlc542.arc,サマートラベルワンピースセット
+model_dlc543.arc,カントリーオーバーオールセット
 model_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 model_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
 model_feswinter2022.arc,カスタムオーダーメイド3D2 エンパイアフェスティバルパック 2022 winter
@@ -3029,6 +3035,8 @@ texture_dlc537.arc,チル・キャリアガールセット
 texture_dlc538.arc,ニンブルパーカーセット
 texture_dlc540.arc,スウィートフラワーメイド服
 texture_dlc541.arc,セデュースキュートメイド服
+texture_dlc542.arc,サマートラベルワンピースセット
+texture_dlc543.arc,カントリーオーバーオールセット
 texture_dlcdenkigai2017w.arc,電気外祭り2017冬アイテムセット-DLC.Ver
 texture_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 texture_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -3299,6 +3307,7 @@ bg_personal_om012.arc,カスタムオーダーメイド3D2キャラクターパ�
 bg_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクターパックEX ギャル シリーズ
 bg_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 bg_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+bg_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 bg_smsp001.arc,カスタムオーダーメイド拘束台SP
 bg_soukiyoyaku.arc,カスタムオーダーメイド3D2専用プラグイン COM3D2-早期予約ファンシーペーパー
 bg_sp001.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Summer
@@ -3309,6 +3318,7 @@ bg_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summer
 bg_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 bg_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 bg_stream001.arc,エンパイアメイドカフェ
+bg_stream002.arc,エンパイアメイドカフェSEASON2
 bg_studio002.arc,スタジオモード強化パック Vol.02
 bg_studio003.arc,スタジオモード強化パック Vol.03
 bg_studio004.arc,スタジオモード強化パック Vol.04
@@ -3389,6 +3399,7 @@ csv_charaevent014add.arc,イベント追加パックvol.14 キャラクターH�
 csv_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 csv_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
 csv_charaevent016.arc,キャラクターHイベントプラス SPECIAL-NTR-Side
+csv_charaevent016add.arc,カスタムオーダーメイド3D2 キャラクターHイベントプラス SPECIAL-NTR-Side Ver.純真、ツンデレ、クーデレ
 csv_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 csv_charaevent_anesan.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
 csv_charaevent_genki.arc,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
@@ -3736,7 +3747,9 @@ csv_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラクタ�
 csv_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 csv_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 csv_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+csv_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 csv_select001.arc,シチュエーションセレクトパック　ACT2&ACT3購入者向け
+csv_select002.arc,シチュエーションセレクトパックVol.02
 csv_selfishdestiny.arc,MML・Selfish Destiny ダンス
 csv_senkyo001.arc,1st only you ダンス＆イベント
 csv_smsp001.arc,カスタムオーダーメイド拘束台SP
@@ -3751,6 +3764,7 @@ csv_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Summe
 csv_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 csv_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 csv_stream001.arc,エンパイアメイドカフェ
+csv_stream002.arc,エンパイアメイドカフェSEASON2
 csv_studio001.arc,スタジオモード強化パック
 csv_studio002.arc,スタジオモード強化パック Vol.02
 csv_studio003.arc,スタジオモード強化パック Vol.03
@@ -4098,13 +4112,16 @@ motion_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 motion_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 motion_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 motion_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+motion_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 motion_select001.arc,シチュエーションセレクトパック　ACT2&ACT3購入者向け
+motion_select002.arc,シチュエーションセレクトパックVol.02
 motion_selfishdestiny.arc,MML・Selfish Destiny ダンス
 motion_senkyo001.arc,1st only you ダンス＆イベント
 motion_smsp001.arc,カスタムオーダーメイド拘束台SP
 motion_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 motion_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 motion_stream001.arc,エンパイアメイドカフェ
+motion_stream002.arc,エンパイアメイドカフェSEASON2
 motion_studio001.arc,スタジオモード強化パック
 motion_studio002.arc,スタジオモード強化パック Vol.02
 motion_studio003.arc,スタジオモード強化パック Vol.03
@@ -4653,6 +4670,8 @@ parts_dlc537.arc,チル・キャリアガールセット
 parts_dlc538.arc,ニンブルパーカーセット
 parts_dlc540.arc,スウィートフラワーメイド服
 parts_dlc541.arc,セデュースキュートメイド服
+parts_dlc542.arc,サマートラベルワンピースセット
+parts_dlc543.arc,カントリーオーバーオールセット
 parts_dlcdenkigai2019s.arc,電気外祭り2019夏アイテムセット-DLC.Ver
 parts_dlcfacetex001.arc,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_dlsite.arc,DLsite.comオリジナル・コスチュームプラグイン
@@ -4744,6 +4763,8 @@ parts_personal_om013underwear.arc,カスタムオーダーメイド3D2&2.5 キ�
 parts_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 parts_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 parts_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+parts_secondhome001_dlc545.arc,ウエストオープンワンピース水着セット
+parts_secondhome001_dlc546.arc,ドットリムセパレート水着セット
 parts_shop011.arc,フラウメイド服
 parts_shop014.arc,ファビュラスマダムセット
 parts_shop016.arc,ずきんむすめセット
@@ -4778,6 +4799,7 @@ parts_sp007cloth1.arc,館内着セット
 parts_sp007cloth2.arc,茶羽織セット
 parts_sp007cloth3.arc,ストール巻き和服セット
 parts_stream001.arc,エンパイアメイドカフェ
+parts_stream002.arc,エンパイアメイドカフェSEASON2
 parts_studio001.arc,スタジオモード強化パック
 parts_tanabata2022.arc,たなばたらんじぇりー無償DLC
 parts_tech003.arc,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
@@ -4953,6 +4975,7 @@ script_charaevent014add.arc,イベント追加パックvol.14 キャラクター
 script_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 script_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
 script_charaevent016.arc,キャラクターHイベントプラス SPECIAL-NTR-Side
+script_charaevent016add.arc,カスタムオーダーメイド3D2 キャラクターHイベントプラス SPECIAL-NTR-Side Ver.純真、ツンデレ、クーデレ
 script_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 script_charaevent_anesan.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
 script_charaevent_genki.arc,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
@@ -5170,7 +5193,9 @@ script_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 script_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 script_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 script_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+script_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 script_select001.arc,シチュエーションセレクトパック　ACT2&ACT3購入者向け
+script_select002.arc,シチュエーションセレクトパックVol.02
 script_senkyo001.arc,1st only you ダンス＆イベント
 script_share_karaoke.arc,クリスマスカラオケSP
 script_share_karaoke001.arc,カラオケパックVR VOL.1
@@ -5188,6 +5213,7 @@ script_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Su
 script_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 script_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 script_stream001.arc,エンパイアメイドカフェ
+script_stream002.arc,エンパイアメイドカフェSEASON2
 script_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 script_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 script_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
@@ -5488,7 +5514,9 @@ system_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 system_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 system_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 system_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+system_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 system_select001.arc,シチュエーションセレクトパック　ACT2&ACT3購入者向け
+system_select002.arc,シチュエーションセレクトパックVol.02
 system_selfishdestiny.arc,MML・Selfish Destiny ダンス
 system_smsp001.arc,カスタムオーダーメイド拘束台SP
 system_sp001.arc,カスタムオーダーメイド3D2 シーズンパック 2018 Summer
@@ -5561,6 +5589,7 @@ voice_charaevent014add.arc,イベント追加パックvol.14 キャラクターH
 voice_charaevent015.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装
 voice_charaevent015add.arc,カスタムオーダーメイド3D2 イベント追加パックvol.15 純愛side キャラクターHイベントプラス「ラブラブお姉さんズ」＋衣装 Ver.お姉ちゃん、ドS、おしとやか対応版
 voice_charaevent016.arc,キャラクターHイベントプラス SPECIAL-NTR-Side
+voice_charaevent016add.arc,カスタムオーダーメイド3D2 キャラクターHイベントプラス SPECIAL-NTR-Side Ver.純真、ツンデレ、クーデレ
 voice_charaevent017.arc,キャラクターHイベントプラス SPECIAL-NTR-Side Ver.AV
 voice_charaevent_anesan.arc,カスタムオーダーメイド3D2 警戒&恋人+状態＆Hイベントパック feat.お姉ちゃん
 voice_charaevent_genki.arc,ボクっ娘パック ～ボクっ娘アブノーマルHイベント&ボクっ娘タトゥー～
@@ -5801,7 +5830,9 @@ voice_personal_om013.arc,カスタムオーダーメイド3D2&2.5 キャラク�
 voice_puremaniac001.arc,カスタムオーダーメイド3D2 Pure＆Maniac After Marriage feat.無垢、真面目、凜デレ、無愛想、お嬢様、幼馴染
 voice_rotakara001.arc,カスタムオーダーメイド3D2　ローターカラオケショーSP
 voice_rotakara002.arc,カスタムオーダーメイド3D2　ローターカラオケショー
+voice_secondhome001.arc,みんなでホリデー！　ヴィラライフ追加パック
 voice_select001.arc,シチュエーションセレクトパック　ACT2&ACT3購入者向け
+voice_select002.arc,シチュエーションセレクトパックVol.02
 voice_senkyo001.arc,1st only you ダンス＆イベント
 voice_smsp001.arc,カスタムオーダーメイド拘束台SP
 voice_smsp001_add.arc,カスタムオーダーメイド拘束台SP Ver.文学少女、小悪魔、おしとやか、メイド秘書、妹、無愛想 Ver.購入者向け
@@ -5814,6 +5845,7 @@ voice_sp005.arc,カスタムオーダーメイド3D2 デートパック 2019 Sum
 voice_sp006.arc,カスタムオーダーメイド3D2 デートパック 2019 Winter
 voice_sp007.arc,カスタムオーダーメイド3D2 デートパック 2021 Winter
 voice_stream001.arc,エンパイアメイドカフェ
+voice_stream002.arc,エンパイアメイドカフェSEASON2
 voice_teikoku001.arc,スペシャルサービス追加パック『帝国荘』
 voice_teikoku002.arc,スペシャルサービス追加パック『帝国荘』Vol.2　シリーズ
 voice_trio001.arc,トリオ&ハーレムパック『ツンデレ×クーデレ×純真』
@@ -6185,6 +6217,10 @@ parts_dlc537_gp003.aba,チル・キャリアガールセット
 parts_dlc538_gp003.aba,ニンブルパーカーセット
 parts_dlc540_gp003.aba,スウィートフラワーメイド服
 parts_dlc541_gp003.aba,セデュースキュートメイド服
+parts_dlc542_gp003.aba,サマートラベルワンピースセット
+parts_dlc543_gp003.aba,カントリーオーバーオールセット
+parts_dlc545_gp003.aba,ウエストオープンワンピース水着セット
+parts_dlc546_gp003.aba,ドットリムセパレート水着セット
 parts_dlcdenkigai2015s004.aba,カスタムオーダーメイド3D2 互換アイテムセット Ver1.5.0
 parts_dlcfacetex001.aba,カスタムオーダーメイド3D2 ヘアーセット＆ヘッドパーツセット＆フェイスパーツセット
 parts_explus001.aba,ド変態ドM&腹黒メイド服+EXキャラビジュアル強化パック
